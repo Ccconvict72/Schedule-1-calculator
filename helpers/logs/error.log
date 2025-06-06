@@ -1,0 +1,24 @@
+[2025-06-05 17:28:44,867] CRITICAL: [DataLoad] Failed to load core data: 1 validation error for Product
+rank
+  Field required [type=missing, input_value={'Name': 'OGKush', 'Effec...treetrat I', 'Order': 1}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+[2025-06-05 17:33:09,698] CRITICAL: [DataLoad] Failed to load core data: 1 validation error for Product
+rank
+  Field required [type=missing, input_value={'Name': 'OGKush', 'Effec...treetrat I', 'Order': 1}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+[2025-06-05 17:35:48,104] CRITICAL: [DataLoad] Failed to load core data: 1 validation error for Additive
+rank
+  Field required [type=missing, input_value={'Name': 'Addy', 'Effect'...2, 'Rank': 'Hustler II'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+[2025-06-06 13:44:42,417] ERROR: [MixerLogic] MixerLogic: Mixing failed: name 'log_info' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 245, in calculate_mix
+    log_info(f"MixerLogic: calculate_mix success for base '{base_product_name}'", tag="MixerLogic")
+    ^^^^^^^^
+NameError: name 'log_info' is not defined
+[2025-06-06 14:03:06,499] ERROR: [MixerLogic] MixerLogic: Mixing failed: name 'log_info' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 245, in calculate_mix
+    log_info(f"MixerLogic: calculate_mix success for base '{base_product_name}'", tag="MixerLogic")
+    ^^^^^^^^
+NameError: name 'log_info' is not defined

@@ -1,0 +1,98 @@
+{
+    "Addy": {
+        "Name": "Addy",
+        "Effect": "Thought-Provoking",
+        "Price": 2,
+        "Rank": "Hustler II"
+    },
+    "Banana": {
+        "Name": "Banana",
+        "Effect": "Gingeritis",
+        "Price": 2,
+        "Rank": "Streetrat I"
+    },
+    "Battery": {
+        "Name": "Battery",
+        "Effect": "Bright-Eyed",
+        "Price": 3,
+        "Rank": "Peddler V"
+    },
+    "Chili": {
+        "Name": "Chili",
+        "Effect": "Spicy",
+        "Price": 3,
+        "Rank": "Peddler IV"
+    },
+    "Cuke": {
+        "Name": "Cuke",
+        "Effect": "Energizing",
+        "Price": 4,
+        "Rank": "Streetrat I"
+    },
+    "Donut": {
+        "Name": "Donut",
+        "Effect": "Calorie-Dense",
+        "Price": 4,
+        "Rank": "Streetrat I"
+    },
+    "Energy Drink": {
+        "Name": "Energy Drink",
+        "Effect": "Athletic",
+        "Price": 5,
+        "Rank": "Peddler I"
+    },
+    "Flu Medicine": {
+        "Name": "Flu Medicine",
+        "Effect": "Sedating",
+        "Price": 5,
+        "Rank": "Hoodlum IV"
+    },
+    "Gasoline": {
+        "Name": "Gasoline",
+        "Effect": "Toxic",
+        "Price": 6,
+        "Rank": "Hoodlum V"
+    },
+    "Horse Semen": {
+        "Name": "Horse Semen",
+        "Effect": "Long-Faced",
+        "Price": 6,
+        "Rank": "Hustler III"
+    },
+    "Iodine": {
+        "Name": "Iodine",
+        "Effect": "Jennerising",
+        "Price": 7,
+        "Rank": "Hustler I"
+    },
+    "Mega Bean": {
+        "Name": "Mega Bean",
+        "Effect": "Foggy",
+        "Price": 7,
+        "Rank": "Peddler III"
+    },
+    "Motor Oil": {
+        "Name": "Motor Oil",
+        "Effect": "Slippery",
+        "Price": 8,
+        "Rank": "Peddler II"
+    },
+    "Mouth Wash": {
+        "Name": "Mouth Wash",
+        "Effect": "Balding",
+        "Price": 8,
+        "Rank": "Hoodlum III"
+    },
+    "Paracetamol": {
+        "Name": "Paracetamol",
+        "Effect": "Sneaky",
+        "Price": 9,
+        "Rank": "Streetrat I"
+    },
+    "Viagor": {
+        "Name": "Viagor",
+        "Effect": "Tropic Thunder",
+        "Price": 9,
+        "Rank": "Hoodlum II"
+    }
+}

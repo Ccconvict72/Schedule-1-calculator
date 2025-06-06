@@ -1,0 +1,572 @@
+{
+    "Explosive→Euphoric": {
+        "Additive": "Addy",
+        "From": "Explosive",
+        "To": "Euphoric"
+    },
+    "Foggy→Energizing": {
+        "Additive": "Addy",
+        "From": "Foggy",
+        "To": "Energizing"
+    },
+    "Glowing→Refreshing": {
+        "Additive": "Addy",
+        "From": "Glowing",
+        "To": "Refreshing"
+    },
+    "Long-Faced→Electrifying": {
+        "Additive": "Addy",
+        "From": "Long-Faced",
+        "To": "Electrifying"
+    },
+    "Sedating→Gingeritis": {
+        "Additive": "Addy",
+        "From": "Sedating",
+        "To": "Gingeritis"
+    },
+    "Calming→Sneaky": {
+        "Additive": "Banana",
+        "From": "Calming",
+        "To": "Sneaky"
+    },
+    "Cyclopean→Energizing": {
+        "Additive": "Banana",
+        "From": "Cyclopean",
+        "To": "Energizing"
+    },
+    "Disorienting→Focused": {
+        "Additive": "Banana",
+        "From": "Disorienting",
+        "To": "Focused"
+    },
+    "Energizing→Thought-Provoking": {
+        "Additive": "Banana",
+        "From": "Energizing",
+        "To": "Thought-Provoking"
+    },
+    "Focused→Seizure-Inducing": {
+        "Additive": "Banana",
+        "From": "Focused",
+        "To": "Seizure-Inducing"
+    },
+    "Long-Faced→Refreshing": {
+        "Additive": "Banana",
+        "From": "Long-Faced",
+        "To": "Refreshing"
+    },
+    "Paranoia→Jennerising": {
+        "Additive": "Banana",
+        "From": "Paranoia",
+        "To": "Jennerising"
+    },
+    "Smelly→Anti-Gravity": {
+        "Additive": "Banana",
+        "From": "Smelly",
+        "To": "Anti-Gravity"
+    },
+    "Toxic→Smelly": {
+        "Additive": "Banana",
+        "From": "Toxic",
+        "To": "Smelly"
+    },
+    "Electrifying→Euphoric": {
+        "Additive": "Battery",
+        "From": "Electrifying",
+        "To": "Euphoric"
+    },
+    "Euphoric→Zombifying": {
+        "Additive": "Battery",
+        "From": "Euphoric",
+        "To": "Zombifying"
+    },
+    "Cyclopean→Glowing": {
+        "Additive": "Battery",
+        "From": "Cyclopean",
+        "To": "Glowing"
+    },
+    "Laxative→Calorie-Dense": {
+        "Additive": "Battery",
+        "From": "Laxative",
+        "To": "Calorie-Dense"
+    },
+    "Munchies→Tropic Thunder": {
+        "Additive": "Battery",
+        "From": "Munchies",
+        "To": "Tropic Thunder"
+    },
+    "Shrinking→Munchies": {
+        "Additive": "Battery",
+        "From": "Shrinking",
+        "To": "Munchies"
+    },
+    "Anti-Gravity→Tropic Thunder": {
+        "Additive": "Chili",
+        "From": "Anti-Gravity",
+        "To": "Tropic Thunder"
+    },
+    "Athletic→Euphoric": {
+        "Additive": "Chili",
+        "From": "Athletic",
+        "To": "Euphoric"
+    },
+    "Laxative→Long-Faced": {
+        "Additive": "Chili",
+        "From": "Laxative",
+        "To": "Long-Faced"
+    },
+    "Munchies→Toxic": {
+        "Additive": "Chili",
+        "From": "Munchies",
+        "To": "Toxic"
+    },
+    "Shrinking→Refreshing": {
+        "Additive": "Chili",
+        "From": "Shrinking",
+        "To": "Refreshing"
+    },
+    "Sneaky→Bright-Eyed": {
+        "Additive": "Chili",
+        "From": "Sneaky",
+        "To": "Bright-Eyed"
+    },
+    "Euphoric→Laxative": {
+        "Additive": "Cuke",
+        "From": "Euphoric",
+        "To": "Laxative"
+    },
+    "Foggy→Cyclopean": {
+        "Additive": "Cuke",
+        "From": "Foggy",
+        "To": "Cyclopean"
+    },
+    "Gingeritis→Thought-Provoking": {
+        "Additive": "Cuke",
+        "From": "Gingeritis",
+        "To": "Thought-Provoking"
+    },
+    "Munchies→Athletic": {
+        "Additive": "Cuke",
+        "From": "Munchies",
+        "To": "Athletic"
+    },
+    "Slippery→Munchies": {
+        "Additive": "Cuke",
+        "From": "Slippery",
+        "To": "Munchies"
+    },
+    "Sneaky→Paranoia": {
+        "Additive": "Cuke",
+        "From": "Sneaky",
+        "To": "Paranoia"
+    },
+    "Toxic→Euphoric": {
+        "Additive": "Cuke",
+        "From": "Toxic",
+        "To": "Euphoric"
+    },
+    "Anti-Gravity→Slippery": {
+        "Additive": "Donut",
+        "From": "Anti-Gravity",
+        "To": "Slippery"
+    },
+    "Balding→Sneaky": {
+        "Additive": "Donut",
+        "From": "Balding",
+        "To": "Sneaky"
+    },
+    "Munchies→Calming": {
+        "Additive": "Donut",
+        "From": "Munchies",
+        "To": "Calming"
+    },
+    "Calorie-Dense→Explosive": {
+        "Additive": "Donut",
+        "From": "Calorie-Dense",
+        "To": "Explosive"
+    },
+    "Focused→Euphoric": {
+        "Additive": "Donut",
+        "From": "Focused",
+        "To": "Euphoric"
+    },
+    "Jennerising→Gingeritis": {
+        "Additive": "Donut",
+        "From": "Jennerising",
+        "To": "Gingeritis"
+    },
+    "Shrinking→Energizing": {
+        "Additive": "Donut",
+        "From": "Shrinking",
+        "To": "Energizing"
+    },
+    "Disorienting→Electrifying": {
+        "Additive": "Energy Drink",
+        "From": "Disorienting",
+        "To": "Electrifying"
+    },
+    "Euphoric→Energizing": {
+        "Additive": "Energy Drink",
+        "From": "Euphoric",
+        "To": "Energizing"
+    },
+    "Focused→Shrinking": {
+        "Additive": "Energy Drink",
+        "From": "Focused",
+        "To": "Shrinking"
+    },
+    "Foggy→Laxative": {
+        "Additive": "Energy Drink",
+        "From": "Foggy",
+        "To": "Laxative"
+    },
+    "Glowing→Disorienting": {
+        "Additive": "Energy Drink",
+        "From": "Glowing",
+        "To": "Disorienting"
+    },
+    "Schizophenic→Balding": {
+        "Additive": "Energy Drink",
+        "From": "Schizophenic",
+        "To": "Balding"
+    },
+    "Sedating→Munchies": {
+        "Additive": "Energy Drink",
+        "From": "Sedating",
+        "To": "Munchies"
+    },
+    "Spicy→Euphoric": {
+        "Additive": "Energy Drink",
+        "From": "Spicy",
+        "To": "Euphoric"
+    },
+    "Tropic Thunder→Sneaky": {
+        "Additive": "Energy Drink",
+        "From": "Tropic Thunder",
+        "To": "Sneaky"
+    },
+    "Athletic→Munchies": {
+        "Additive": "Flu Medicine",
+        "From": "Athletic",
+        "To": "Munchies"
+    },
+    "Calming→Bright-Eyed": {
+        "Additive": "Flu Medicine",
+        "From": "Calming",
+        "To": "Bright-Eyed"
+    },
+    "Cyclopean→Foggy": {
+        "Additive": "Flu Medicine",
+        "From": "Cyclopean",
+        "To": "Foggy"
+    },
+    "Electrifying→Refreshing": {
+        "Additive": "Flu Medicine",
+        "From": "Electrifying",
+        "To": "Refreshing"
+    },
+    "Euphoric→Toxic": {
+        "Additive": "Flu Medicine",
+        "From": "Euphoric",
+        "To": "Toxic"
+    },
+    "Focused→Calming": {
+        "Additive": "Flu Medicine",
+        "From": "Focused",
+        "To": "Calming"
+    },
+    "Laxative→Euphoric": {
+        "Additive": "Flu Medicine",
+        "From": "Laxative",
+        "To": "Euphoric"
+    },
+    "Munchies→Slippery": {
+        "Additive": "Flu Medicine",
+        "From": "Munchies",
+        "To": "Slippery"
+    },
+    "Shrinking→Paranoia": {
+        "Additive": "Flu Medicine",
+        "From": "Shrinking",
+        "To": "Paranoia"
+    },
+    "Thought-Provoking→Gingeritis": {
+        "Additive": "Flu Medicine",
+        "From": "Thought-Provoking",
+        "To": "Gingeritis"
+    },
+    "Disorienting→Glowing": {
+        "Additive": "Gasoline",
+        "From": "Disorienting",
+        "To": "Glowing"
+    },
+    "Electrifying→Disorienting": {
+        "Additive": "Gasoline",
+        "From": "Electrifying",
+        "To": "Disorienting"
+    },
+    "Energizing→Euphoric": {
+        "Additive": "Gasoline",
+        "From": "Energizing",
+        "To": "Euphoric"
+    },
+    "Euphoric→Spicy": {
+        "Additive": "Gasoline",
+        "From": "Euphoric",
+        "To": "Spicy"
+    },
+    "Gingeritis→Smelly": {
+        "Additive": "Gasoline",
+        "From": "Gingeritis",
+        "To": "Smelly"
+    },
+    "Jennerising→Sneaky": {
+        "Additive": "Gasoline",
+        "From": "Jennerising",
+        "To": "Sneaky"
+    },
+    "Laxative→Foggy": {
+        "Additive": "Gasoline",
+        "From": "Laxative",
+        "To": "Foggy"
+    },
+    "Munchies→Sedating": {
+        "Additive": "Gasoline",
+        "From": "Munchies",
+        "To": "Sedating"
+    },
+    "Paranoia→Calming": {
+        "Additive": "Gasoline",
+        "From": "Paranoia",
+        "To": "Calming"
+    },
+    "Shrinking→Focused": {
+        "Additive": "Gasoline",
+        "From": "Shrinking",
+        "To": "Focused"
+    },
+    "Sneaky→Tropic Thunder": {
+        "Additive": "Gasoline",
+        "From": "Sneaky",
+        "To": "Tropic Thunder"
+    },
+    "Anti-Gravity→Calming": {
+        "Additive": "Horse Semen",
+        "From": "Anti-Gravity",
+        "To": "Calming"
+    },
+    "Gingeritis→Refreshing": {
+        "Additive": "Horse Semen",
+        "From": "Gingeritis",
+        "To": "Refreshing"
+    },
+    "Seizure-Inducing→Energizing": {
+        "Additive": "Horse Semen",
+        "From": "Seizure-Inducing",
+        "To": "Energizing"
+    },
+    "Thought-Provoking→Electrifying": {
+        "Additive": "Horse Semen",
+        "From": "Thought-Provoking",
+        "To": "Electrifying"
+    },
+    "Calming→Balding": {
+        "Additive": "Iodine",
+        "From": "Calming",
+        "To": "Balding"
+    },
+    "Calorie-Dense→Gingeritis": {
+        "Additive": "Iodine",
+        "From": "Calorie-Dense",
+        "To": "Gingeritis"
+    },
+    "Euphoric→Seizure-Inducing": {
+        "Additive": "Iodine",
+        "From": "Euphoric",
+        "To": "Seizure-Inducing"
+    },
+    "Foggy→Paranoia": {
+        "Additive": "Iodine",
+        "From": "Foggy",
+        "To": "Paranoia"
+    },
+    "Refreshing→Thought-Provoking": {
+        "Additive": "Iodine",
+        "From": "Refreshing",
+        "To": "Thought-Provoking"
+    },
+    "Toxic→Sneaky": {
+        "Additive": "Iodine",
+        "From": "Toxic",
+        "To": "Sneaky"
+    },
+    "Athletic→Laxative": {
+        "Additive": "Mega Bean",
+        "From": "Athletic",
+        "To": "Laxative"
+    },
+    "Calming→Glowing": {
+        "Additive": "Mega Bean",
+        "From": "Calming",
+        "To": "Glowing"
+    },
+    "Focused→Disorienting": {
+        "Additive": "Mega Bean",
+        "From": "Focused",
+        "To": "Disorienting"
+    },
+    "Jennerising→Paranoia": {
+        "Additive": "Mega Bean",
+        "From": "Jennerising",
+        "To": "Paranoia"
+    },
+    "Seizure-Inducing→Focused": {
+        "Additive": "Mega Bean",
+        "From": "Seizure-Inducing",
+        "To": "Focused"
+    },
+    "Shrinking→Electrifying": {
+        "Additive": "Mega Bean",
+        "From": "Shrinking",
+        "To": "Electrifying"
+    },
+    "Slippery→Toxic": {
+        "Additive": "Mega Bean",
+        "From": "Slippery",
+        "To": "Toxic"
+    },
+    "Sneaky→Calming": {
+        "Additive": "Mega Bean",
+        "From": "Sneaky",
+        "To": "Calming"
+    },
+    "Energizing→Cyclopean": {
+        "Additive": "Mega Bean",
+        "From": "Energizing",
+        "To": "Cyclopean"
+    },
+    "Thought-Provoking→Energizing": {
+        "Additive": "Mega Bean",
+        "From": "Thought-Provoking",
+        "To": "Energizing"
+    },
+    "Energizing→Munchies": {
+        "Additive": "Motor Oil",
+        "From": "Energizing",
+        "To": "Munchies"
+    },
+    "Munchies→Schizophrenic": {
+        "Additive": "Motor Oil",
+        "From": "Munchies",
+        "To": "Schizophrenic"
+    },
+    "Euphoric→Sedating": {
+        "Additive": "Motor Oil",
+        "From": "Euphoric",
+        "To": "Sedating"
+    },
+    "Foggy→Toxic": {
+        "Additive": "Motor Oil",
+        "From": "Foggy",
+        "To": "Toxic"
+    },
+    "Paranoia→Anti-Gravity": {
+        "Additive": "Motor Oil",
+        "From": "Paranoia",
+        "To": "Anti-Gravity"
+    },
+    "Calming→Anti-Gravity": {
+        "Additive": "Mouth Wash",
+        "From": "Calming",
+        "To": "Anti-Gravity"
+    },
+    "Calorie-Dense→Sneaky": {
+        "Additive": "Mouth Wash",
+        "From": "Calorie-Dense",
+        "To": "Sneaky"
+    },
+    "Explosive→Sedating": {
+        "Additive": "Mouth Wash",
+        "From": "Explosive",
+        "To": "Sedating"
+    },
+    "Focused→Jennerising": {
+        "Additive": "Mouth Wash",
+        "From": "Focused",
+        "To": "Jennerising"
+    },
+    "Calming→Slippery": {
+        "Additive": "Paracetamol",
+        "From": "Calming",
+        "To": "Slippery"
+    },
+    "Energizing→Paranoia": {
+        "Additive": "Paracetamol",
+        "From": "Energizing",
+        "To": "Paranoia"
+    },
+    "Electrifying→Athletic": {
+        "Additive": "Paracetamol",
+        "From": "Electrifying",
+        "To": "Athletic"
+    },
+    "Focused→Gingeritis": {
+        "Additive": "Paracetamol",
+        "From": "Focused",
+        "To": "Gingeritis"
+    },
+    "Foggy→Calming": {
+        "Additive": "Paracetamol",
+        "From": "Foggy",
+        "To": "Calming"
+    },
+    "Glowing→Toxic": {
+        "Additive": "Paracetamol",
+        "From": "Glowing",
+        "To": "Toxic"
+    },
+    "Munchies→Anti-Gravity": {
+        "Additive": "Paracetamol",
+        "From": "Munchies",
+        "To": "Anti-Gravity"
+    },
+    "Paranoia→Balding": {
+        "Additive": "Paracetamol",
+        "From": "Paranoia",
+        "To": "Balding"
+    },
+    "Spicy→Bright-Eyed": {
+        "Additive": "Paracetamol",
+        "From": "Spicy",
+        "To": "Bright-Eyed"
+    },
+    "Toxic→Tropic Thunder": {
+        "Additive": "Paracetamol",
+        "From": "Toxic",
+        "To": "Tropic Thunder"
+    },
+    "Athletic→Sneaky": {
+        "Additive": "Viagor",
+        "From": "Athletic",
+        "To": "Sneaky"
+    },
+    "Disorienting→Toxic": {
+        "Additive": "Viagor",
+        "From": "Disorienting",
+        "To": "Toxic"
+    },
+    "Euphoric→Bright-Eyed": {
+        "Additive": "Viagor",
+        "From": "Euphoric",
+        "To": "Bright-Eyed"
+    },
+    "Laxative→Calming": {
+        "Additive": "Viagor",
+        "From": "Laxative",
+        "To": "Calming"
+    },
+    "Shrinking→Gingeritis": {
+        "Additive": "Viagor",
+        "From": "Shrinking",
+        "To": "Gingeritis"
+    }
+}

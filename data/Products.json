@@ -1,0 +1,56 @@
+{
+    "OGKush": {
+        "Name": "OGKush",
+        "Effect": "Calming",
+        "Color": "#77ED77",
+        "Price": 16,
+        "Value": 35.0,
+        "Rank": "Streetrat I",
+        "Order": 1
+    },
+    "Sour Diesel": {
+        "Name": "Sour Diesel",
+        "Effect": "Refreshing",
+        "Color": "#3BE53B",
+        "Price": 17,
+        "Value": 35.0,
+        "Rank": "Streetrat IV",
+        "Order": 2
+    },
+    "Green Crack": {
+        "Name": "Green Crack",
+        "Effect": "Energizing",
+        "Color": "#1AC01A",
+        "Price": 17,
+        "Value": 35.0,
+        "Rank": "Hoodlum II",
+        "Order": 3
+    },
+    "Granddaddy Purple": {
+        "Name": "Granddaddy Purple",
+        "Effect": "Sedating",
+        "Color": "#9836CE",
+        "Price": 18,
+        "Value": 35.0,
+        "Rank": "Hoodlum IV",
+        "Order": 4
+    },
+    "Meth": {
+        "Name": "Meth",
+        "Effect": "",
+        "Color": "#373CFF",
+        "Price": 21,
+        "Value": 70.0,
+        "Rank": "Peddler I",
+        "Order": 5
+    },
+    "Cocaine": {
+        "Name": "Cocaine",
+        "Effect": "",
+        "Color": "#C80000",
+        "Price": 57,
+        "Value": 150.0,
+        "Rank": "Enforcer I",
+        "Order": 6
+    }
+}

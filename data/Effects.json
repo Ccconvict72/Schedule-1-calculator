@@ -1,0 +1,172 @@
+{
+    "Anti-Gravity": {
+        "Name": "Anti-Gravity",
+        "Color": "#1cb5cb",
+        "Multiplier": 0.54
+    },
+    "Athletic": {
+        "Name": "Athletic",
+        "Color": "#67a9d4",
+        "Multiplier": 0.32
+    },
+    "Balding": {
+        "Name": "Balding",
+        "Color": "#b88835",
+        "Multiplier": 0.3
+    },
+    "Bright-Eyed": {
+        "Name": "Bright-Eyed",
+        "Color": "#b2e6ed",
+        "Multiplier": 0.4
+    },
+    "Calming": {
+        "Name": "Calming",
+        "Color": "#edc392",
+        "Multiplier": 0.1
+    },
+    "Calorie-Dense": {
+        "Name": "Calorie-Dense",
+        "Color": "#dc75d5",
+        "Multiplier": 0.28
+    },
+    "Cyclopean": {
+        "Name": "Cyclopean",
+        "Color": "#eab26f",
+        "Multiplier": 0.56
+    },
+    "Disorienting": {
+        "Name": "Disorienting",
+        "Color": "#ffc000",
+        "Multiplier": 0
+    },
+    "Electrifying": {
+        "Name": "Electrifying",
+        "Color": "#4fa9d6",
+        "Multiplier": 0.5
+    },
+    "Energizing": {
+        "Name": "Energizing",
+        "Color": "#82ee97",
+        "Multiplier": 0.22
+    },
+    "Euphoric": {
+        "Name": "Euphoric",
+        "Color": "#ffff66",
+        "Multiplier": 0.18
+    },
+    "Explosive": {
+        "Name": "Explosive",
+        "Color": "#de473f",
+        "Multiplier": 0
+    },
+    "Focused": {
+        "Name": "Focused",
+        "Color": "#00b0f0",
+        "Multiplier": 0.16
+    },
+    "Foggy": {
+        "Name": "Foggy",
+        "Color": "#949494",
+        "Multiplier": 0.36
+    },
+    "Gingeritis": {
+        "Name": "Gingeritis",
+        "Color": "#ee812e",
+        "Multiplier": 0.2
+    },
+    "Glowing": {
+        "Name": "Glowing",
+        "Color": "#92ded5",
+        "Multiplier": 0.48
+    },
+    "Jennerising": {
+        "Name": "Jennerising",
+        "Color": "#d67ad2",
+        "Multiplier": 0.42
+    },
+    "Laxative": {
+        "Name": "Laxative",
+        "Color": "#713d2a",
+        "Multiplier": 0
+    },
+    "Long-Faced": {
+        "Name": "Long-Faced",
+        "Color": "#fed961",
+        "Multiplier": 0.52
+    },
+    "Munchies": {
+        "Name": "Munchies",
+        "Color": "#c96e57",
+        "Multiplier": 0.12
+    },
+    "Paranoia": {
+        "Name": "Paranoia",
+        "Color": "#b8625d",
+        "Multiplier": 0
+    },
+    "Refreshing": {
+        "Name": "Refreshing",
+        "Color": "#a6ec8f",
+        "Multiplier": 0.14
+    },
+    "Schizophrenic": {
+        "Name": "Schizophrenic",
+        "Color": "#4145f1",
+        "Multiplier": 0
+    },
+    "Sedating": {
+        "Name": "Sedating",
+        "Color": "#645ac4",
+        "Multiplier": 0.26
+    },
+    "Seizure-Inducing": {
+        "Name": "Seizure-Inducing",
+        "Color": "#fee900",
+        "Multiplier": 0
+    },
+    "Shrinking": {
+        "Name": "Shrinking",
+        "Color": "#95dcf7",
+        "Multiplier": 0.6
+    },
+    "Slippery": {
+        "Name": "Slippery",
+        "Color": "#98d0ee",
+        "Multiplier": 0.34
+    },
+    "Smelly": {
+        "Name": "Smelly",
+        "Color": "#77b034",
+        "Multiplier": 0
+    },
+    "Sneaky": {
+        "Name": "Sneaky",
+        "Color": "#747474",
+        "Multiplier": 0.24
+    },
+    "Spicy": {
+        "Name": "Spicy",
+        "Color": "#e1624a",
+        "Multiplier": 0.38
+    },
+    "Thought-Provoking": {
+        "Name": "Thought-Provoking",
+        "Color": "#d589ab",
+        "Multiplier": 0.44
+    },
+    "Toxic": {
+        "Name": "Toxic",
+        "Color": "#578437",
+        "Multiplier": 0
+    },
+    "Tropic Thunder": {
+        "Name": "Tropic Thunder",
+        "Color": "#ea9346",
+        "Multiplier": 0.46
+    },
+    "Zombifying": {
+        "Name": "Zombifying",
+        "Color": "#71ab5d",
+        "Multiplier": 0.58
+    }
+}
