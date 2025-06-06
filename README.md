@@ -38,9 +38,10 @@ Schedule 1 Calculator is a standalone PyQt6 application that helps “Schedule 1
   - Step‐by‐step breakdown of how each additive transforms existing effects (visualized in a horizontal “mixing path” widget).
 
 - **Unmixing Calculator**  
-  - Choose a base product or let the program “pick the best one for me.”  
+  - Choose a base product or let the program **“pick the best one for me.”**  
   - Select up to _N_ desired effects (limit set in Settings).  
   - Runs a breadth‐first search to find a minimal‐cost sequence of additives that produces _all_ chosen effects.  
+  - Automatically selects the best weed for your chosen effects if you use **“Pick the best one for me.”**  
   - Displays each additive step, final effect list, total additive cost, and sell price.  
   - Cancel anytime if the search is taking too long.
 
@@ -68,7 +69,14 @@ Schedule 1 Calculator is a standalone PyQt6 application that helps “Schedule 1
 
 ## Screenshots
 
-*(Include a few well-cropped screenshots here: Main Window, Mixing UI, Unmixing UI, Settings Page, About Dialog.)*
+![image](https://github.com/user-attachments/assets/c4899389-2c4c-47a2-88fe-775f335b88fc)
+![image](https://github.com/user-attachments/assets/339d1a0b-139f-4f25-adef-73b155cd2c7e)
+![image](https://github.com/user-attachments/assets/7a75d3b1-c394-4589-9a06-3cb6f786e98b)
+![image](https://github.com/user-attachments/assets/3c472214-0a48-4616-9da4-6d91d1751ab5)
+![image](https://github.com/user-attachments/assets/5a8d7fbb-315b-4212-86ab-da141d81ca0e)
+![image](https://github.com/user-attachments/assets/ea34d4fd-eb59-4039-bbb5-84607d9b5dab)
+
+
 
 ---
 
