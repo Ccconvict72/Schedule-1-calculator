@@ -13,6 +13,7 @@ from traceback import format_exc
 from helpers.logger import log_debug, log_error, log_info
 from helpers.pricing_manager import PricingManager
 from helpers.color_manager import ColorManager
+from helpers.utils import resource_path
 from helpers.rank import RankManager
 
 
@@ -119,10 +120,10 @@ class MixerLogic:
         List[str],           # effects list
         Dict[str, str],      # effect_colors mapping
         str,                 # base_color hex string
-        float,               # base_cost
-        float,               # additive_cost
-        float,               # total_cost
-        float                # final_price
+        float,               # base_product      (rounded)
+        float,               # additive_total    (rounded)
+        float,               # total_cost        (rounded)
+        float                # final_price       (rounded)
     ]:
         """
         Compute the resulting effects and pricing of mixing a base product with additives.
@@ -146,10 +147,10 @@ class MixerLogic:
                 - effects: Final list of effect names.
                 - effect_colors: Mapping effect_name → color hex string.
                 - base_color: Color hex string for the base product.
-                - base_cost: Cost of the base product.
-                - additive_cost: Cumulative cost of all additives.
-                - total_cost: Sum of base + additive costs.
-                - final_price: Sell price computed by PricingManager.
+                - base_product: Rounded cost of the base product.
+                - additive_total: Rounded cumulative cost of all additives.
+                - total_cost: Rounded sum of base + additive costs.
+                - final_price: Rounded sell price computed by PricingManager.
         """
         try:
             # Retrieve base product object; strip whitespace
@@ -225,12 +226,15 @@ class MixerLogic:
             price_data = self.pricing_manager.calculate_price(
                 base_product=base_product_name,
                 additive_names=additives_selected,
-                effects=effects
+                chosen_effects=effects
             )
-            base_cost = price_data["cost"]["base_product"]
-            additive_cost = price_data["cost"]["additives"]
-            total_cost = price_data["cost"]["total"]
-            final_price = price_data["final_price"]
+
+            # Round each cost field and the final_price to nearest dollar
+            cost = price_data.get("cost", {})
+            rounded_base   = round(cost.get("base_cost", 0))
+            rounded_add    = round(cost.get("additives", 0))
+            rounded_total  = round(cost.get("total", 0))
+            rounded_price  = round(price_data.get("final_price", 0))
 
             # Determine colors for base product and each effect
             base_color = (
@@ -243,7 +247,15 @@ class MixerLogic:
             }
 
             log_info(f"MixerLogic: calculate_mix success for base '{base_product_name}'", tag="MixerLogic")
-            return effects, effect_colors, base_color, base_cost, additive_cost, total_cost, final_price
+            return (
+                effects,
+                effect_colors,
+                base_color,
+                rounded_base,
+                rounded_add,
+                rounded_total,
+                rounded_price
+            )
 
         except Exception as e:
             log_error(f"MixerLogic: Mixing failed: {e}\n{format_exc()}", tag="MixerLogic")

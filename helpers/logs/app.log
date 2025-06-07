@@ -793,3 +793,1355 @@ NameError: name 'log_info' is not defined
 [2025-06-06 14:18:18,502] INFO: [WindowNavigation] Opened window: ReverseWindow
 [2025-06-06 14:18:24,047] INFO: [ReverseUI] ReverseUI: Returning to main window
 [2025-06-06 14:18:24,074] DEBUG: [WindowNavigation] ReverseWindow closed, main window shown
+[2025-06-06 15:21:04,723] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:21:04,723] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:21:04,723] INFO: [Initialization] Core managers initialized
+[2025-06-06 15:21:04,724] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 15:21:04,725] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:21:04,726] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 15:21:04,734] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 15:21:04,735] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 15:21:04,759] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 15:21:04,761] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 15:21:04,761] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 15:21:04,840] INFO: [Startup] Application started
+[2025-06-06 15:28:12,215] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:28:12,215] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:28:12,215] INFO: [Initialization] Core managers initialized
+[2025-06-06 15:28:12,215] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 15:28:12,217] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:28:12,218] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 15:28:12,224] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 15:28:12,225] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 15:28:12,245] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 15:28:43,896] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:28:43,896] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:28:43,896] INFO: [Initialization] Core managers initialized
+[2025-06-06 15:28:43,896] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 15:28:43,898] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:28:43,898] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 15:28:43,905] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 15:28:43,905] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 15:28:43,925] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 15:28:43,928] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 15:28:43,928] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 15:28:43,985] INFO: [Startup] Application started
+[2025-06-06 15:29:42,248] DEBUG: [RankSelection] Accessible products for Streetrat I: {'OGKush'}
+[2025-06-06 15:29:42,248] INFO: [MainWindow] Rank selected: Streetrat I
+[2025-06-06 15:29:44,012] INFO: [MainWindow] Mix clicked with rank: Streetrat I
+[2025-06-06 15:29:44,013] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:29:44,013] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 15:29:44,013] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 15:29:44,021] INFO: [MixerWindow] Applied background: assets/images/background1.png
+[2025-06-06 15:29:44,021] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 15:29:44,021] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 15:29:44,021] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:29:44,021] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:29:44,021] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 15:29:44,021] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 15:29:44,021] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 15:29:44,021] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 15:29:44,022] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:29:44,022] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 15:29:44,022] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 15:29:44,022] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background1.png'
+[2025-06-06 15:29:44,025] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:29:44,025] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:29:44,025] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:29:44,026] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:29:44,026] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 15:29:44,026] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 15:29:44,026] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 15:29:44,026] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 15:29:44,030] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 15:29:44,049] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 15:30:06,513] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:30:06,513] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:30:06,513] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:30:06,514] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:30:13,662] INFO: [MixerLogic] MixerLogic: calculate_mix success for base 'OGKush'
+[2025-06-06 15:30:13,663] INFO: [MixerUI] MixerUI: Displayed mix results for base 'OGKush'
+[2025-06-06 15:30:13,663] INFO: [UI] Building mixing path widget for: ['OGKush', 'Paracetamol', 'Banana']
+[2025-06-06 15:30:13,663] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-06 15:30:13,663] DEBUG: [Icons] Resolved icon path for 'Paracetamol': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Paracetamol_Icon.webp
+[2025-06-06 15:30:13,664] DEBUG: [Icons] Resolved icon path for 'Banana': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Banana_Icon.webp
+[2025-06-06 15:30:38,676] INFO: [MixerUI] MixerUI: Returning to main window
+[2025-06-06 15:30:38,676] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 15:30:38,682] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 15:30:38,683] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 15:30:38,689] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 15:30:49,407] DEBUG: [RankSelection] Accessible products for Block Boss IV: {'OGKush', 'Cocaine', 'Meth', 'Granddaddy Purple', 'Sour Diesel', 'Green Crack'}
+[2025-06-06 15:30:49,408] INFO: [MainWindow] Rank selected: Block Boss IV
+[2025-06-06 15:30:51,299] INFO: [MainWindow] Mix clicked with rank: Block Boss IV
+[2025-06-06 15:30:51,299] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:30:51,300] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 15:30:51,300] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 15:30:51,306] INFO: [MixerWindow] Applied background: assets/images/background1.png
+[2025-06-06 15:30:51,306] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 15:30:51,306] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 15:30:51,306] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:30:51,306] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:30:51,306] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 15:30:51,306] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 15:30:51,306] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 15:30:51,306] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 15:30:51,307] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:30:51,307] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 15:30:51,307] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 15:30:51,307] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background1.png'
+[2025-06-06 15:30:51,311] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:30:51,311] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:30:51,311] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:30:51,312] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:30:51,313] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 15:30:51,313] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 15:30:51,313] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 15:30:51,313] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 15:30:51,318] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 15:30:51,337] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 15:30:53,941] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:30:53,941] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:30:53,941] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:30:53,943] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:30:56,644] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:30:56,644] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:30:56,644] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:30:56,646] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:30:56,753] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:30:56,753] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:30:56,753] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:30:56,755] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:31:39,372] INFO: [MixerLogic] MixerLogic: calculate_mix success for base 'Meth'
+[2025-06-06 15:31:39,372] INFO: [MixerUI] MixerUI: Displayed mix results for base 'Meth'
+[2025-06-06 15:31:39,372] INFO: [UI] Building mixing path widget for: ['Meth', 'Horse Semen', 'Banana', 'Iodine', 'Mouth Wash']
+[2025-06-06 15:31:39,372] DEBUG: [Icons] Resolved icon path for 'Meth': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Meth_Icon.webp
+[2025-06-06 15:31:39,373] DEBUG: [Icons] Resolved icon path for 'Horse Semen': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Horse_Semen_Icon.webp
+[2025-06-06 15:31:39,373] DEBUG: [Icons] Resolved icon path for 'Banana': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Banana_Icon.webp
+[2025-06-06 15:31:39,374] DEBUG: [Icons] Resolved icon path for 'Iodine': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Iodine_Icon.webp
+[2025-06-06 15:31:39,374] DEBUG: [Icons] Resolved icon path for 'Mouth Wash': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Mouth_Wash_Icon.webp
+[2025-06-06 15:32:00,287] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:32:00,287] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:32:00,287] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:32:00,289] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:32:00,289] INFO: [MixerUI] MixerUI: Reset UI to initial state
+[2025-06-06 15:32:00,395] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:32:00,395] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:32:00,395] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:32:00,397] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:32:00,397] INFO: [MixerUI] MixerUI: Reset UI to initial state
+[2025-06-06 15:32:01,156] INFO: [MixerUI] MixerUI: Returning to main window
+[2025-06-06 15:32:01,156] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 15:32:01,162] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 15:32:01,162] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 15:32:01,164] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 15:32:09,603] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 15:32:09,603] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 15:32:09,652] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 15:32:09,652] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 15:32:09,658] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 15:32:09,659] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background1.png'
+[2025-06-06 15:32:09,659] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 15:32:13,358] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background2.png'
+[2025-06-06 15:32:16,531] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background2.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 15:32:16,533] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background2.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 15:32:16,540] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background2.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 15:32:16,542] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:32:16,542] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 15:32:16,567] INFO: [Settings] Background changed to: assets/images/background2.png
+[2025-06-06 15:32:16,567] DEBUG: [RankSelection] Rank selection cleared
+[2025-06-06 15:32:16,567] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 15:32:16,567] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 15:40:17,272] DEBUG: [RankSelection] Accessible products for Streetrat I: {'OGKush'}
+[2025-06-06 15:40:17,272] INFO: [MainWindow] Rank selected: Streetrat I
+[2025-06-06 15:40:17,334] DEBUG: [RankSelection] Accessible products for Streetrat II: {'OGKush'}
+[2025-06-06 15:40:17,334] INFO: [MainWindow] Rank selected: Streetrat II
+[2025-06-06 15:40:19,185] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 15:40:19,185] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 15:40:19,244] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background2.png'
+[2025-06-06 15:40:19,244] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 15:40:19,250] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 15:40:19,251] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background2.png'
+[2025-06-06 15:40:19,251] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 15:40:22,617] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background2.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': True}
+[2025-06-06 15:40:22,620] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background2.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': True}
+[2025-06-06 15:40:22,626] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background2.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': True}
+[2025-06-06 15:40:22,628] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:40:22,628] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 15:40:22,664] INFO: [Settings] Background changed to: assets/images/background2.png
+[2025-06-06 15:40:22,664] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 15:40:22,664] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 15:47:14,392] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:47:14,392] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:47:14,392] INFO: [Initialization] Core managers initialized
+[2025-06-06 15:47:14,392] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 15:47:14,394] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:47:14,395] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 15:47:14,403] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 15:47:14,403] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 15:47:14,431] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 15:47:14,434] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 15:47:14,434] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 15:47:14,502] INFO: [Startup] Application started
+[2025-06-06 15:47:16,221] INFO: [MainWindow] Mix clicked with rank: Kingpin V
+[2025-06-06 15:47:16,221] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:47:16,222] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 15:47:16,222] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 15:47:16,222] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 15:47:16,222] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 15:47:16,222] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 15:47:16,222] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:47:16,222] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:47:16,222] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 15:47:16,222] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 15:47:16,223] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 15:47:16,223] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 15:47:16,223] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:47:16,223] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 15:47:16,223] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 15:47:16,224] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 15:47:16,227] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:47:16,227] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:47:16,227] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:47:16,228] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:47:16,228] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 15:47:16,228] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 15:47:16,228] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 15:47:16,228] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 15:47:16,416] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 15:47:16,437] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 15:47:20,806] INFO: [MixerLogic] MixerLogic: calculate_mix success for base 'Meth'
+[2025-06-06 15:47:20,806] INFO: [MixerUI] MixerUI: Displayed mix results for base 'Meth'
+[2025-06-06 15:47:20,806] INFO: [UI] Building mixing path widget for: ['Meth', 'Donut']
+[2025-06-06 15:47:20,806] DEBUG: [Icons] Resolved icon path for 'Meth': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Meth_Icon.webp
+[2025-06-06 15:47:20,807] DEBUG: [Icons] Resolved icon path for 'Donut': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Donut_Icon.webp
+[2025-06-06 15:47:27,915] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 15:47:27,922] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 15:47:27,922] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 15:50:51,511] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:50:51,511] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:50:51,511] INFO: [Initialization] Core managers initialized
+[2025-06-06 15:50:51,512] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 15:50:51,513] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:50:51,514] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 15:50:51,520] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 15:50:51,520] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 15:50:51,546] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 15:50:51,549] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 15:50:51,549] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 15:50:51,615] INFO: [Startup] Application started
+[2025-06-06 15:50:53,713] INFO: [MainWindow] Mix clicked with rank: Kingpin V
+[2025-06-06 15:50:53,714] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:50:53,714] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 15:50:53,714] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 15:50:53,715] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 15:50:53,715] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 15:50:53,715] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 15:50:53,715] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:50:53,715] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:50:53,715] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 15:50:53,715] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 15:50:53,715] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 15:50:53,715] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 15:50:53,716] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:50:53,716] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 15:50:53,716] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 15:50:53,717] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 15:50:53,720] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:50:53,720] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:50:53,720] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:50:53,722] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:50:53,722] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 15:50:53,722] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 15:50:53,722] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 15:50:53,723] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 15:50:53,910] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 15:50:53,930] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 15:50:59,174] ERROR: [MixerLogic] MixerLogic: Mixing failed: name 'chosen_effects' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 225, in calculate_mix
+    price_data = self.pricing_manager.calculate_price(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\helpers\pricing_manager.py", line 116, in calculate_price
+    for eff_name in chosen_effects:
+                    ^^^^^^^^^^^^^^
+NameError: name 'chosen_effects' is not defined
+[2025-06-06 15:50:59,174] INFO: [MixerUI] MixerUI: Displayed mix results for base 'Sour Diesel'
+[2025-06-06 15:50:59,175] INFO: [UI] Building mixing path widget for: ['Sour Diesel', 'Addy']
+[2025-06-06 15:50:59,175] DEBUG: [Icons] Resolved icon path for 'Sour Diesel': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Sour_Diesel_Icon.webp
+[2025-06-06 15:50:59,175] DEBUG: [Icons] Resolved icon path for 'Addy': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Addy_Icon.webp
+[2025-06-06 15:51:03,065] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 15:51:03,070] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 15:51:03,070] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 15:52:20,783] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:52:20,783] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:52:20,783] INFO: [Initialization] Core managers initialized
+[2025-06-06 15:52:20,784] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 15:52:20,785] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:52:20,786] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 15:52:20,792] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 15:52:20,792] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 15:52:20,819] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 15:52:20,822] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 15:52:20,822] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 15:52:20,893] INFO: [Startup] Application started
+[2025-06-06 15:52:23,587] INFO: [MainWindow] Mix clicked with rank: Kingpin V
+[2025-06-06 15:52:23,588] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:52:23,588] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 15:52:23,588] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 15:52:23,588] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 15:52:23,588] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 15:52:23,588] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 15:52:23,588] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:52:23,588] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:52:23,588] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 15:52:23,589] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 15:52:23,589] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 15:52:23,589] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 15:52:23,589] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:52:23,589] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 15:52:23,589] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 15:52:23,589] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 15:52:23,593] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:52:23,593] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:52:23,593] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:52:23,595] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:52:23,596] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 15:52:23,596] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 15:52:23,596] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 15:52:23,596] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 15:52:23,785] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 15:52:23,806] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 15:52:28,137] ERROR: [MixerLogic] MixerLogic: Mixing failed: PricingManager.calculate_price() got an unexpected keyword argument 'effects'
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 225, in calculate_mix
+    price_data = self.pricing_manager.calculate_price(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PricingManager.calculate_price() got an unexpected keyword argument 'effects'
+[2025-06-06 15:52:28,137] INFO: [MixerUI] MixerUI: Displayed mix results for base 'Green Crack'
+[2025-06-06 15:52:28,137] INFO: [UI] Building mixing path widget for: ['Green Crack', 'Chili']
+[2025-06-06 15:52:28,138] DEBUG: [Icons] Resolved icon path for 'Green Crack': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Green_Crack_Icon.webp
+[2025-06-06 15:52:28,138] DEBUG: [Icons] Resolved icon path for 'Chili': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Chili_Icon.webp
+[2025-06-06 15:52:34,257] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 15:52:34,265] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 15:52:34,265] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 15:59:01,899] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:59:01,899] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:59:01,899] INFO: [Initialization] Core managers initialized
+[2025-06-06 15:59:01,899] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 15:59:01,901] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:59:01,902] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 15:59:01,908] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 15:59:01,908] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 15:59:01,934] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 15:59:01,936] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 15:59:01,936] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 15:59:01,993] INFO: [Startup] Application started
+[2025-06-06 15:59:03,496] INFO: [MainWindow] Mix clicked with rank: Kingpin V
+[2025-06-06 15:59:03,497] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:59:03,497] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 15:59:03,497] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 15:59:03,497] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 15:59:03,497] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 15:59:03,497] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 15:59:03,498] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 15:59:03,498] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 15:59:03,498] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 15:59:03,498] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 15:59:03,498] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 15:59:03,498] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 15:59:03,498] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 15:59:03,498] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 15:59:03,499] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 15:59:03,499] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 15:59:03,502] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 15:59:03,502] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 15:59:03,502] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 15:59:03,504] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 15:59:03,504] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 15:59:03,504] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 15:59:03,504] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 15:59:03,504] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 15:59:03,690] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 15:59:03,719] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 15:59:07,814] ERROR: [MixerLogic] MixerLogic: Mixing failed: 'base_product'
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 230, in calculate_mix
+    base_cost = price_data["cost"]["base_product"]
+                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'base_product'
+[2025-06-06 15:59:07,814] INFO: [MixerUI] MixerUI: Displayed mix results for base 'Green Crack'
+[2025-06-06 15:59:07,814] INFO: [UI] Building mixing path widget for: ['Green Crack', 'Battery']
+[2025-06-06 15:59:07,815] DEBUG: [Icons] Resolved icon path for 'Green Crack': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Green_Crack_Icon.webp
+[2025-06-06 15:59:07,815] DEBUG: [Icons] Resolved icon path for 'Battery': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Battery_Icon.webp
+[2025-06-06 15:59:11,289] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 15:59:11,297] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 15:59:11,297] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 16:02:38,846] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:02:38,846] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:02:38,846] INFO: [Initialization] Core managers initialized
+[2025-06-06 16:02:38,846] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 16:02:38,848] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:02:38,849] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 16:02:38,856] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 16:02:38,857] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 16:02:38,884] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:02:38,886] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 16:02:38,886] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 16:02:38,956] INFO: [Startup] Application started
+[2025-06-06 16:02:40,924] INFO: [MainWindow] Mix clicked with rank: Kingpin V
+[2025-06-06 16:02:40,925] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:02:40,925] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 16:02:40,925] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 16:02:40,926] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:02:40,926] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 16:02:40,926] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 16:02:40,926] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:02:40,926] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:02:40,926] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 16:02:40,926] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 16:02:40,926] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 16:02:40,926] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 16:02:40,926] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:02:40,926] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 16:02:40,926] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 16:02:40,927] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:02:40,930] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:02:40,931] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:02:40,931] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:02:40,932] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:02:40,932] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 16:02:40,932] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 16:02:40,932] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 16:02:40,932] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 16:02:41,119] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 16:02:41,140] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 16:02:45,679] ERROR: [MixerLogic] MixerLogic: Mixing failed: PricingManager.calculate_price() got an unexpected keyword argument 'effects'
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 225, in calculate_mix
+    price_data = self.pricing_manager.calculate_price(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PricingManager.calculate_price() got an unexpected keyword argument 'effects'
+[2025-06-06 16:02:45,679] INFO: [MixerUI] MixerUI: Displayed mix results for base 'OGKush'
+[2025-06-06 16:02:45,679] INFO: [UI] Building mixing path widget for: ['OGKush', 'Addy']
+[2025-06-06 16:02:45,679] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-06 16:02:45,680] DEBUG: [Icons] Resolved icon path for 'Addy': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Addy_Icon.webp
+[2025-06-06 16:02:48,512] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 16:02:48,518] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 16:02:48,518] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 16:04:54,355] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:04:54,355] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:04:54,355] INFO: [Initialization] Core managers initialized
+[2025-06-06 16:04:54,355] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 16:04:54,357] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:04:54,358] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 16:04:54,365] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 16:04:54,365] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 16:04:54,394] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:04:54,397] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 16:04:54,397] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 16:04:54,470] INFO: [Startup] Application started
+[2025-06-06 16:04:56,012] INFO: [MainWindow] Mix clicked with rank: Kingpin V
+[2025-06-06 16:04:56,013] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:04:56,013] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 16:04:56,013] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 16:04:56,013] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:04:56,013] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 16:04:56,013] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 16:04:56,013] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:04:56,013] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:04:56,013] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 16:04:56,014] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 16:04:56,014] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 16:04:56,014] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 16:04:56,014] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:04:56,014] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 16:04:56,014] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 16:04:56,015] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:04:56,018] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:04:56,018] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:04:56,018] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:04:56,019] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:04:56,019] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 16:04:56,019] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 16:04:56,020] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 16:04:56,020] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 16:04:56,208] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 16:04:56,229] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 16:04:59,114] ERROR: [MixerLogic] MixerLogic: Mixing failed: name 'base_name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 226, in calculate_mix
+    base_product=base_name,
+                 ^^^^^^^^^
+NameError: name 'base_name' is not defined
+[2025-06-06 16:04:59,114] INFO: [MixerUI] MixerUI: Displayed mix results for base 'OGKush'
+[2025-06-06 16:04:59,114] INFO: [UI] Building mixing path widget for: ['OGKush']
+[2025-06-06 16:04:59,114] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-06 16:05:01,479] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 16:05:01,486] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 16:05:01,486] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 16:09:18,066] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:09:18,066] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:09:18,066] INFO: [Initialization] Core managers initialized
+[2025-06-06 16:09:18,066] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 16:09:18,067] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:09:18,068] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 16:09:18,074] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 16:09:18,074] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 16:09:18,101] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:09:18,103] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 16:09:18,103] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 16:09:18,168] INFO: [Startup] Application started
+[2025-06-06 16:09:19,540] INFO: [MainWindow] Mix clicked with rank: Kingpin V
+[2025-06-06 16:09:19,541] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:09:19,541] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 16:09:19,541] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 16:09:19,541] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:09:19,541] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 16:09:19,541] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 16:09:19,541] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:09:19,541] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:09:19,542] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 16:09:19,542] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 16:09:19,542] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 16:09:19,542] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 16:09:19,542] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:09:19,542] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 16:09:19,542] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 16:09:19,543] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:09:19,546] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:09:19,546] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:09:19,546] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:09:19,548] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:09:19,548] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 16:09:19,548] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 16:09:19,548] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 16:09:19,548] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 16:09:19,738] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 16:09:19,757] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 16:09:23,294] INFO: [MixerLogic] MixerLogic: calculate_mix success for base 'OGKush'
+[2025-06-06 16:09:23,294] INFO: [MixerUI] MixerUI: Displayed mix results for base 'OGKush'
+[2025-06-06 16:09:23,294] INFO: [UI] Building mixing path widget for: ['OGKush', 'Addy']
+[2025-06-06 16:09:23,294] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-06 16:09:23,295] DEBUG: [Icons] Resolved icon path for 'Addy': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Addy_Icon.webp
+[2025-06-06 16:09:31,994] INFO: [MixerLogic] MixerLogic: calculate_mix success for base 'Meth'
+[2025-06-06 16:09:31,994] INFO: [MixerUI] MixerUI: Displayed mix results for base 'Meth'
+[2025-06-06 16:09:31,994] INFO: [UI] Building mixing path widget for: ['Meth', 'Addy']
+[2025-06-06 16:09:31,995] DEBUG: [Icons] Resolved icon path for 'Meth': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Meth_Icon.webp
+[2025-06-06 16:09:31,995] DEBUG: [Icons] Resolved icon path for 'Addy': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Addy_Icon.webp
+[2025-06-06 16:09:38,774] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 16:09:38,781] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 16:09:38,781] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 16:09:40,615] INFO: [MainWindow] Unmix clicked with rank: Kingpin V
+[2025-06-06 16:09:40,615] INFO: [ReverseWindow] ReverseWindow initialized
+[2025-06-06 16:09:40,616] DEBUG: [ReverseWindow] Loaded nested effect rules and additives
+[2025-06-06 16:09:40,616] DEBUG: [ReverseWindow] PricingManager instantiated in ReverseWindow
+[2025-06-06 16:09:40,616] DEBUG: [ReverseLogic] ReverseLogic initialized with 6 products and 16 nested effect rules.
+[2025-06-06 16:09:40,616] DEBUG: [ReverseWindow] ReverseLogic instantiated in ReverseWindow
+[2025-06-06 16:09:40,616] DEBUG: [ReverseUI] [ReverseUI] __init__ start
+[2025-06-06 16:09:40,616] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:09:40,617] DEBUG: [ReverseUI] ReverseUI: Applied font 'Berenika'
+[2025-06-06 16:09:40,617] DEBUG: [ReverseUI] ReverseUI: Applied font color '#FF0000'
+[2025-06-06 16:09:40,617] INFO: [ReverseUI] ReverseUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:09:40,621] DEBUG: [ReverseUI] ReverseUI: Created 34 effect checkboxes (max 8)
+[2025-06-06 16:09:40,623] DEBUG: [ReverseUI] [ReverseUI] _build_ui end
+[2025-06-06 16:09:40,623] DEBUG: [ReverseUI] [ReverseUI] __init__ end
+[2025-06-06 16:09:40,625] INFO: [ReverseWindow] ReverseUI set as central widget
+[2025-06-06 16:09:40,648] INFO: [WindowNavigation] Opened window: ReverseWindow
+[2025-06-06 16:09:42,551] DEBUG: [ReverseUI] ReverseUI: Selected product set to: OGKush
+[2025-06-06 16:09:43,132] DEBUG: [ReverseUI] ReverseUI: Selected product set to: None
+[2025-06-06 16:09:44,385] DEBUG: [ReverseUI] ReverseUI: Selected product set to: Meth
+[2025-06-06 16:09:47,041] DEBUG: [ReverseUI] [ReverseUI] safe_handle_unmix called
+[2025-06-06 16:09:47,059] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-06 16:09:47,060] DEBUG: [UnmixWorker] [UnmixWorker] Starting unmix for product=Meth, effects=['Athletic']
+[2025-06-06 16:09:47,060] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-06 16:09:47,060] DEBUG: [ReverseLogic] ReverseLogic: Starting unmix for product='Meth' with desired_effects=['Athletic']
+[2025-06-06 16:09:47,060] DEBUG: [ReverseLogic] ReverseLogic: Extracted base effects: {''}
+[2025-06-06 16:09:47,079] DEBUG: [ReverseLogic] ReverseLogic: Path found: [('Energy Drink', {'', 'Athletic'})]
+[2025-06-06 16:14:57,647] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:14:57,647] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:14:57,647] INFO: [Initialization] Core managers initialized
+[2025-06-06 16:14:57,647] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 16:14:57,649] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:14:57,649] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 16:14:57,656] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 16:14:57,656] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 16:14:57,681] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:14:57,685] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 16:14:57,685] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 16:14:57,756] INFO: [Startup] Application started
+[2025-06-06 16:15:00,330] INFO: [MainWindow] Mix clicked with rank: Kingpin V
+[2025-06-06 16:15:00,331] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:15:00,331] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 16:15:00,331] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 16:15:00,331] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:15:00,332] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 16:15:00,332] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 16:15:00,332] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:15:00,332] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:15:00,332] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 16:15:00,332] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 16:15:00,332] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 16:15:00,332] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 16:15:00,332] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:15:00,332] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 16:15:00,332] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 16:15:00,332] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:15:00,336] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:15:00,336] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:15:00,336] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:15:00,337] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:15:00,338] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 16:15:00,338] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 16:15:00,338] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 16:15:00,338] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 16:15:00,524] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 16:15:00,543] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 16:15:03,512] INFO: [MixerLogic] MixerLogic: calculate_mix success for base 'OGKush'
+[2025-06-06 16:15:03,512] INFO: [MixerUI] MixerUI: Displayed mix results for base 'OGKush'
+[2025-06-06 16:15:03,512] INFO: [UI] Building mixing path widget for: ['OGKush', 'Addy']
+[2025-06-06 16:15:03,512] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-06 16:15:03,513] DEBUG: [Icons] Resolved icon path for 'Addy': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Addy_Icon.webp
+[2025-06-06 16:15:07,198] INFO: [MixerUI] MixerUI: Returning to main window
+[2025-06-06 16:15:07,198] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 16:15:07,206] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 16:15:07,206] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 16:15:07,208] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 16:15:08,264] INFO: [MainWindow] Unmix clicked with rank: Kingpin V
+[2025-06-06 16:15:08,264] INFO: [ReverseWindow] ReverseWindow initialized
+[2025-06-06 16:15:08,264] DEBUG: [ReverseWindow] Loaded nested effect rules and additives
+[2025-06-06 16:15:08,264] DEBUG: [ReverseWindow] PricingManager instantiated in ReverseWindow
+[2025-06-06 16:15:08,265] DEBUG: [ReverseLogic] ReverseLogic initialized with 6 products and 16 nested effect rules.
+[2025-06-06 16:15:08,265] DEBUG: [ReverseWindow] ReverseLogic instantiated in ReverseWindow
+[2025-06-06 16:15:08,265] DEBUG: [ReverseUI] [ReverseUI] __init__ start
+[2025-06-06 16:15:08,265] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:15:08,265] DEBUG: [ReverseUI] ReverseUI: Applied font 'Berenika'
+[2025-06-06 16:15:08,265] DEBUG: [ReverseUI] ReverseUI: Applied font color '#FF0000'
+[2025-06-06 16:15:08,266] INFO: [ReverseUI] ReverseUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:15:08,269] DEBUG: [ReverseUI] ReverseUI: Created 34 effect checkboxes (max 8)
+[2025-06-06 16:15:08,271] DEBUG: [ReverseUI] [ReverseUI] _build_ui end
+[2025-06-06 16:15:08,271] DEBUG: [ReverseUI] [ReverseUI] __init__ end
+[2025-06-06 16:15:08,273] INFO: [ReverseWindow] ReverseUI set as central widget
+[2025-06-06 16:15:08,296] INFO: [WindowNavigation] Opened window: ReverseWindow
+[2025-06-06 16:15:10,235] DEBUG: [ReverseUI] ReverseUI: Selected product set to: Meth
+[2025-06-06 16:15:12,892] DEBUG: [ReverseUI] [ReverseUI] safe_handle_unmix called
+[2025-06-06 16:15:12,907] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-06 16:15:12,909] DEBUG: [UnmixWorker] [UnmixWorker] Starting unmix for product=Meth, effects=['Athletic']
+[2025-06-06 16:15:12,909] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-06 16:15:12,909] DEBUG: [ReverseLogic] ReverseLogic: Starting unmix for product='Meth' with desired_effects=['Athletic']
+[2025-06-06 16:15:12,909] DEBUG: [ReverseLogic] ReverseLogic: Extracted base effects: {''}
+[2025-06-06 16:15:12,927] DEBUG: [ReverseLogic] ReverseLogic: Path found: [('Energy Drink', {'', 'Athletic'})]
+[2025-06-06 16:15:12,928] DEBUG: [ReverseLogic] ReverseLogic: Price calculation completed: {'cost': {'base_cost': 21, 'additives': 5, 'total': 26}, 'final_price': 92}
+[2025-06-06 16:15:12,928] DEBUG: [UnmixWorker] [UnmixWorker] Finished unmix, emitting result
+[2025-06-06 16:15:12,928] DEBUG: [ReverseUI] [ReverseUI] Stopping loading dialog after result
+[2025-06-06 16:15:12,934] INFO: [UI] Building mixing path widget for: ['Meth', 'Energy Drink']
+[2025-06-06 16:15:12,934] DEBUG: [Icons] Resolved icon path for 'Meth': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Meth_Icon.webp
+[2025-06-06 16:15:12,935] DEBUG: [Icons] Resolved icon path for 'Energy Drink': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Energy_Drink_Icon.webp
+[2025-06-06 16:17:10,863] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:17:10,863] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:17:10,863] INFO: [Initialization] Core managers initialized
+[2025-06-06 16:17:10,863] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 16:17:10,865] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:17:10,865] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 16:17:10,871] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 16:17:10,872] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 16:17:10,898] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:17:10,901] INFO: [RankFilter] Rank filtering disabled. Using highest rank: Kingpin V
+[2025-06-06 16:17:10,901] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 16:17:10,961] INFO: [Startup] Application started
+[2025-06-06 16:17:11,904] INFO: [MainWindow] Mix clicked with rank: Kingpin V
+[2025-06-06 16:17:11,905] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:17:11,905] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 16:17:11,905] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 16:17:11,906] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:17:11,906] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 16:17:11,906] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 16:17:11,906] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:17:11,906] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:17:11,906] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 16:17:11,906] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 16:17:11,906] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 16:17:11,906] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 16:17:11,907] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:17:11,907] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 16:17:11,907] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 16:17:11,907] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:17:11,911] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:17:11,911] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:17:11,911] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:17:11,913] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:17:11,913] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 16:17:11,913] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 16:17:11,913] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 16:17:11,913] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 16:17:12,102] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 16:17:12,125] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 16:17:15,519] INFO: [MixerLogic] MixerLogic: calculate_mix success for base 'OGKush'
+[2025-06-06 16:17:15,519] INFO: [MixerUI] MixerUI: Displayed mix results for base 'OGKush'
+[2025-06-06 16:17:15,519] INFO: [UI] Building mixing path widget for: ['OGKush', 'Addy']
+[2025-06-06 16:17:15,519] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-06 16:17:15,520] DEBUG: [Icons] Resolved icon path for 'Addy': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Addy_Icon.webp
+[2025-06-06 16:17:19,109] INFO: [MixerUI] MixerUI: Returning to main window
+[2025-06-06 16:17:19,109] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 16:17:19,114] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 16:17:19,114] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 16:17:19,117] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 16:17:20,511] INFO: [MainWindow] Unmix clicked with rank: Kingpin V
+[2025-06-06 16:17:20,512] INFO: [ReverseWindow] ReverseWindow initialized
+[2025-06-06 16:17:20,512] DEBUG: [ReverseWindow] Loaded nested effect rules and additives
+[2025-06-06 16:17:20,512] DEBUG: [ReverseWindow] PricingManager instantiated in ReverseWindow
+[2025-06-06 16:17:20,512] DEBUG: [ReverseLogic] ReverseLogic initialized with 6 products and 16 nested effect rules.
+[2025-06-06 16:17:20,512] DEBUG: [ReverseWindow] ReverseLogic instantiated in ReverseWindow
+[2025-06-06 16:17:20,512] DEBUG: [ReverseUI] [ReverseUI] __init__ start
+[2025-06-06 16:17:20,512] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:17:20,514] DEBUG: [ReverseUI] ReverseUI: Applied font 'Berenika'
+[2025-06-06 16:17:20,514] DEBUG: [ReverseUI] ReverseUI: Applied font color '#FF0000'
+[2025-06-06 16:17:20,514] INFO: [ReverseUI] ReverseUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:17:20,517] DEBUG: [ReverseUI] ReverseUI: Created 34 effect checkboxes (max 8)
+[2025-06-06 16:17:20,519] DEBUG: [ReverseUI] [ReverseUI] _build_ui end
+[2025-06-06 16:17:20,519] DEBUG: [ReverseUI] [ReverseUI] __init__ end
+[2025-06-06 16:17:20,521] INFO: [ReverseWindow] ReverseUI set as central widget
+[2025-06-06 16:17:20,543] INFO: [WindowNavigation] Opened window: ReverseWindow
+[2025-06-06 16:17:22,330] DEBUG: [ReverseUI] ReverseUI: Selected product set to: Meth
+[2025-06-06 16:17:24,306] DEBUG: [ReverseUI] [ReverseUI] safe_handle_unmix called
+[2025-06-06 16:17:24,321] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-06 16:17:24,322] DEBUG: [UnmixWorker] [UnmixWorker] Starting unmix for product=Meth, effects=['Athletic']
+[2025-06-06 16:17:24,322] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-06 16:17:24,323] DEBUG: [ReverseLogic] ReverseLogic: Starting unmix for product='Meth' with desired_effects=['Athletic']
+[2025-06-06 16:17:24,323] DEBUG: [ReverseLogic] ReverseLogic: Extracted base effects: {''}
+[2025-06-06 16:17:24,341] DEBUG: [ReverseLogic] ReverseLogic: Path found: [('Energy Drink', {'', 'Athletic'})]
+[2025-06-06 16:17:24,341] DEBUG: [ReverseLogic] ReverseLogic: Price calculation completed: {'cost': {'base_product': 21, 'additives': 5, 'total': 26}, 'final_price': 92}
+[2025-06-06 16:17:24,341] DEBUG: [UnmixWorker] [UnmixWorker] Finished unmix, emitting result
+[2025-06-06 16:17:24,341] DEBUG: [ReverseUI] [ReverseUI] Stopping loading dialog after result
+[2025-06-06 16:17:24,346] INFO: [UI] Building mixing path widget for: ['Meth', 'Energy Drink']
+[2025-06-06 16:17:24,346] DEBUG: [Icons] Resolved icon path for 'Meth': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Meth_Icon.webp
+[2025-06-06 16:17:24,347] DEBUG: [Icons] Resolved icon path for 'Energy Drink': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Energy_Drink_Icon.webp
+[2025-06-06 16:17:24,350] INFO: [ReverseUI] ReverseUI: Displayed unmix results
+[2025-06-06 16:17:36,936] DEBUG: [ReverseUI] ReverseUI: Selected product set to: None
+[2025-06-06 16:17:38,218] DEBUG: [ReverseUI] ReverseUI: Selected product set to: Pick the best one for me
+[2025-06-06 16:17:39,624] DEBUG: [ReverseUI] [ReverseUI] safe_handle_unmix called
+[2025-06-06 16:17:39,639] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-06 16:17:39,640] DEBUG: [PickBestProductWorker] [PickBestProductWorker] Starting pick_best_product for effects=['Athletic']
+[2025-06-06 16:17:39,640] DEBUG: [ReverseLogic] ReverseLogic: Starting pick_best_product for desired_effects=['Athletic']
+[2025-06-06 16:17:39,640] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product OGKush
+[2025-06-06 16:17:39,659] DEBUG: [ReverseLogic] ReverseLogic: Path found for product OGKush: [('Energy Drink', {'Athletic', 'Calming'})]
+[2025-06-06 16:17:39,659] DEBUG: [ReverseLogic] ReverseLogic: New best path selected: product=OGKush, length=1
+[2025-06-06 16:17:39,659] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Sour Diesel
+[2025-06-06 16:17:39,676] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Sour Diesel: [('Energy Drink', {'Athletic', 'Refreshing'})]
+[2025-06-06 16:17:39,676] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Green Crack
+[2025-06-06 16:17:39,691] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Green Crack: [('Energy Drink', {'Athletic', 'Energizing'})]
+[2025-06-06 16:17:39,691] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Granddaddy Purple
+[2025-06-06 16:17:39,710] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Granddaddy Purple: [('Energy Drink', {'Munchies', 'Athletic'})]
+[2025-06-06 16:17:39,710] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Meth
+[2025-06-06 16:17:39,728] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Meth: [('Energy Drink', {'', 'Athletic'})]
+[2025-06-06 16:17:39,728] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Cocaine
+[2025-06-06 16:17:39,745] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Cocaine: [('Energy Drink', {'', 'Athletic'})]
+[2025-06-06 16:17:39,745] DEBUG: [ReverseLogic] ReverseLogic: Best product OGKush, final effects: {'Athletic', 'Calming'}
+[2025-06-06 16:17:39,745] DEBUG: [ReverseLogic] ReverseLogic: Price calculation for best product OGKush: {'cost': {'base_product': 16, 'additives': 5, 'total': 21}, 'final_price': 50}
+[2025-06-06 16:17:39,745] DEBUG: [PickBestProductWorker] [PickBestProductWorker] Finished pick_best_product, emitting result
+[2025-06-06 16:17:39,745] DEBUG: [ReverseUI] [ReverseUI] Stopping loading dialog after result
+[2025-06-06 16:17:39,751] INFO: [UI] Building mixing path widget for: ['OGKush', 'Energy Drink']
+[2025-06-06 16:17:39,751] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-06 16:17:39,752] DEBUG: [Icons] Resolved icon path for 'Energy Drink': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Energy_Drink_Icon.webp
+[2025-06-06 16:17:39,753] INFO: [ReverseUI] ReverseUI: Displayed unmix results
+[2025-06-06 16:24:03,744] INFO: [ReverseUI] ReverseUI: Returning to main window
+[2025-06-06 16:24:03,781] DEBUG: [WindowNavigation] ReverseWindow closed, main window shown
+[2025-06-06 16:24:06,923] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 16:24:06,923] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 16:24:06,982] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background2.png'
+[2025-06-06 16:24:06,982] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 16:24:06,989] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 16:24:06,990] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background2.png'
+[2025-06-06 16:24:06,990] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 16:24:09,739] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 16:24:09,739] INFO: [SettingsPage] SettingsPage: Restored default background 'assets/images/background1.png'
+[2025-06-06 16:24:09,740] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 16:24:09,740] INFO: [SettingsPage] SettingsPage: Restored default font_color '#FF0000'
+[2025-06-06 16:24:09,740] INFO: [SettingsPage] SettingsPage: Restored default max_effects 8
+[2025-06-06 16:24:09,740] INFO: [SettingsPage] SettingsPage: Restored default rank_filter_disabled False
+[2025-06-06 16:24:11,102] INFO: [SettingsPage] SettingsPage: All settings reset to defaults
+[2025-06-06 16:24:19,126] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:24:19,128] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:24:19,133] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:24:19,135] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:24:19,135] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 16:24:19,158] INFO: [Settings] Background changed to: assets/images/background1.png
+[2025-06-06 16:24:19,158] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 16:24:19,158] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 16:24:45,910] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 16:24:45,910] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 16:24:45,957] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 16:24:45,957] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 16:24:45,963] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 16:24:45,964] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background1.png'
+[2025-06-06 16:24:45,964] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 16:24:51,691] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background3.png'
+[2025-06-06 16:25:10,185] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background4.png'
+[2025-06-06 16:25:12,749] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background4.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:25:12,751] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background4.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:25:12,758] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background4.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:25:12,760] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:25:12,760] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 16:25:12,774] INFO: [Settings] Background changed to: assets/images/background4.png
+[2025-06-06 16:25:12,774] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 16:25:12,774] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 16:25:14,050] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 16:25:14,050] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 16:25:14,095] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background4.png'
+[2025-06-06 16:25:14,095] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 16:25:14,100] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 16:25:14,101] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background4.png'
+[2025-06-06 16:25:14,101] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 16:25:15,657] DEBUG: [ProductPricePage] ProductPricePage: Applied background 'assets/images/background4.png'
+[2025-06-06 16:25:15,657] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:25:15,658] DEBUG: [ProductPricePage] ProductPricePage: Loaded custom font 'Berenika'
+[2025-06-06 16:25:15,658] DEBUG: [ProductPricePage] ProductPricePage: Building tabs for products
+[2025-06-06 16:25:15,663] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'OGKush' with prev_choices={}
+[2025-06-06 16:25:15,667] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Sour Diesel' with prev_choices={}
+[2025-06-06 16:25:15,670] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Green Crack' with prev_choices={}
+[2025-06-06 16:25:15,673] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Granddaddy Purple' with prev_choices={}
+[2025-06-06 16:25:15,675] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Meth' with prev_choices={}
+[2025-06-06 16:25:15,678] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Cocaine' with prev_choices={}
+[2025-06-06 16:25:15,679] INFO: [ProductPricePage] ProductPricePage initialized
+[2025-06-06 16:25:22,816] INFO: [SettingsPage] SettingsPage: Opened ProductPricePage
+[2025-06-06 16:25:25,731] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background4.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:25:25,734] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background4.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:25:25,739] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background4.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:25:25,741] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:25:25,741] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 16:25:25,781] INFO: [Settings] Background changed to: assets/images/background4.png
+[2025-06-06 16:25:25,781] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 16:25:25,781] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 16:25:30,304] DEBUG: [RankSelection] Accessible products for Streetrat I: {'OGKush'}
+[2025-06-06 16:25:30,304] INFO: [MainWindow] Rank selected: Streetrat I
+[2025-06-06 16:25:31,603] INFO: [MainWindow] Mix clicked with rank: Streetrat I
+[2025-06-06 16:25:31,604] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:25:31,604] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 16:25:31,604] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 16:25:31,605] INFO: [MixerWindow] Applied background: assets/images/background4.png
+[2025-06-06 16:25:31,605] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 16:25:31,605] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 16:25:31,605] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:25:31,605] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:25:31,605] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 16:25:31,605] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 16:25:31,605] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 16:25:31,605] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 16:25:31,605] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:25:31,605] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 16:25:31,605] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 16:25:31,606] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background4.png'
+[2025-06-06 16:25:31,609] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:25:31,609] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:25:31,609] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:25:31,610] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:25:31,610] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 16:25:31,610] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 16:25:31,610] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 16:25:31,610] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 16:25:31,614] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 16:25:31,633] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 16:25:47,155] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:25:47,155] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:25:47,155] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:25:47,156] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:25:47,794] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:25:47,794] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:25:47,794] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:25:47,796] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:25:48,014] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:25:48,014] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:25:48,014] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:25:48,016] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:25:48,207] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 16:25:48,207] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 16:25:48,207] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 16:25:48,209] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 16:25:57,444] INFO: [MixerLogic] MixerLogic: calculate_mix success for base 'OGKush'
+[2025-06-06 16:25:57,444] INFO: [MixerUI] MixerUI: Displayed mix results for base 'OGKush'
+[2025-06-06 16:25:57,444] INFO: [UI] Building mixing path widget for: ['OGKush', 'Banana', 'Cuke', 'Donut', 'Donut', 'Paracetamol']
+[2025-06-06 16:25:57,445] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-06 16:25:57,445] DEBUG: [Icons] Resolved icon path for 'Banana': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Banana_Icon.webp
+[2025-06-06 16:25:57,445] DEBUG: [Icons] Resolved icon path for 'Cuke': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Cuke_Icon.webp
+[2025-06-06 16:25:57,446] DEBUG: [Icons] Resolved icon path for 'Donut': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Donut_Icon.webp
+[2025-06-06 16:25:57,446] DEBUG: [Icons] Resolved icon path for 'Donut': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Donut_Icon.webp
+[2025-06-06 16:25:57,447] DEBUG: [Icons] Resolved icon path for 'Paracetamol': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Paracetamol_Icon.webp
+[2025-06-06 16:26:19,436] INFO: [MixerUI] MixerUI: Returning to main window
+[2025-06-06 16:26:19,436] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 16:26:19,442] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 16:26:19,442] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 16:26:19,445] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 16:26:21,909] DEBUG: [RankSelection] Accessible products for Shot Caller V: {'Green Crack', 'Meth', 'Cocaine', 'Sour Diesel', 'OGKush', 'Granddaddy Purple'}
+[2025-06-06 16:26:21,909] INFO: [MainWindow] Rank selected: Shot Caller V
+[2025-06-06 16:26:23,025] INFO: [MainWindow] Unmix clicked with rank: Shot Caller V
+[2025-06-06 16:26:23,025] INFO: [ReverseWindow] ReverseWindow initialized
+[2025-06-06 16:26:23,026] DEBUG: [ReverseWindow] Loaded nested effect rules and additives
+[2025-06-06 16:26:23,026] DEBUG: [ReverseWindow] PricingManager instantiated in ReverseWindow
+[2025-06-06 16:26:23,026] DEBUG: [ReverseLogic] ReverseLogic initialized with 6 products and 16 nested effect rules.
+[2025-06-06 16:26:23,026] DEBUG: [ReverseWindow] ReverseLogic instantiated in ReverseWindow
+[2025-06-06 16:26:23,026] DEBUG: [ReverseUI] [ReverseUI] __init__ start
+[2025-06-06 16:26:23,027] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:26:23,027] DEBUG: [ReverseUI] ReverseUI: Applied font 'Berenika'
+[2025-06-06 16:26:23,027] DEBUG: [ReverseUI] ReverseUI: Applied font color '#FF0000'
+[2025-06-06 16:26:23,027] INFO: [ReverseUI] ReverseUI: Applied background 'assets/images/background4.png'
+[2025-06-06 16:26:23,031] DEBUG: [ReverseUI] ReverseUI: Created 34 effect checkboxes (max 8)
+[2025-06-06 16:26:23,032] DEBUG: [ReverseUI] [ReverseUI] _build_ui end
+[2025-06-06 16:26:23,032] DEBUG: [ReverseUI] [ReverseUI] __init__ end
+[2025-06-06 16:26:23,034] INFO: [ReverseWindow] ReverseUI set as central widget
+[2025-06-06 16:26:23,058] INFO: [WindowNavigation] Opened window: ReverseWindow
+[2025-06-06 16:26:28,113] DEBUG: [ReverseUI] ReverseUI: Selected product set to: Pick the best one for me
+[2025-06-06 16:26:34,700] INFO: [ReverseUI] ReverseUI: Returning to main window
+[2025-06-06 16:26:34,735] DEBUG: [WindowNavigation] ReverseWindow closed, main window shown
+[2025-06-06 16:26:35,839] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 16:26:35,839] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 16:26:35,886] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background4.png'
+[2025-06-06 16:26:35,886] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 16:26:35,892] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 16:26:35,893] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background4.png'
+[2025-06-06 16:26:35,893] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 16:26:38,736] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background2.png'
+[2025-06-06 16:26:39,718] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background2.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:26:39,720] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background2.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:26:39,726] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background2.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 16:26:39,728] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:26:39,728] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 16:26:39,797] INFO: [Settings] Background changed to: assets/images/background2.png
+[2025-06-06 16:26:39,797] DEBUG: [RankSelection] Rank selection cleared
+[2025-06-06 16:26:39,797] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 16:26:39,797] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 16:26:46,109] DEBUG: [RankSelection] Accessible products for Kingpin V: {'Green Crack', 'Meth', 'Cocaine', 'Sour Diesel', 'OGKush', 'Granddaddy Purple'}
+[2025-06-06 16:26:46,109] INFO: [MainWindow] Rank selected: Kingpin V
+[2025-06-06 16:26:46,912] INFO: [MainWindow] Unmix clicked with rank: Kingpin V
+[2025-06-06 16:26:46,912] INFO: [ReverseWindow] ReverseWindow initialized
+[2025-06-06 16:26:46,913] DEBUG: [ReverseWindow] Loaded nested effect rules and additives
+[2025-06-06 16:26:46,913] DEBUG: [ReverseWindow] PricingManager instantiated in ReverseWindow
+[2025-06-06 16:26:46,913] DEBUG: [ReverseLogic] ReverseLogic initialized with 6 products and 16 nested effect rules.
+[2025-06-06 16:26:46,913] DEBUG: [ReverseWindow] ReverseLogic instantiated in ReverseWindow
+[2025-06-06 16:26:46,913] DEBUG: [ReverseUI] [ReverseUI] __init__ start
+[2025-06-06 16:26:46,913] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:26:46,914] DEBUG: [ReverseUI] ReverseUI: Applied font 'Berenika'
+[2025-06-06 16:26:46,914] DEBUG: [ReverseUI] ReverseUI: Applied font color '#FF0000'
+[2025-06-06 16:26:46,914] INFO: [ReverseUI] ReverseUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:26:46,918] DEBUG: [ReverseUI] ReverseUI: Created 34 effect checkboxes (max 8)
+[2025-06-06 16:26:46,919] DEBUG: [ReverseUI] [ReverseUI] _build_ui end
+[2025-06-06 16:26:46,919] DEBUG: [ReverseUI] [ReverseUI] __init__ end
+[2025-06-06 16:26:46,921] INFO: [ReverseWindow] ReverseUI set as central widget
+[2025-06-06 16:26:46,942] INFO: [WindowNavigation] Opened window: ReverseWindow
+[2025-06-06 16:26:52,846] DEBUG: [ReverseUI] ReverseUI: Selected product set to: Meth
+[2025-06-06 16:26:54,940] DEBUG: [ReverseUI] ReverseUI: Selected product set to: Pick the best one for me
+[2025-06-06 16:26:54,940] DEBUG: [ReverseUI] ReverseUI: Selected product set to: Pick the best one for me
+[2025-06-06 16:27:00,973] DEBUG: [ReverseUI] [ReverseUI] safe_handle_unmix called
+[2025-06-06 16:27:00,988] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-06 16:27:00,989] DEBUG: [PickBestProductWorker] [PickBestProductWorker] Starting pick_best_product for effects=['Calorie-Dense', 'Euphoric', 'Foggy']
+[2025-06-06 16:27:00,990] DEBUG: [ReverseLogic] ReverseLogic: Starting pick_best_product for desired_effects=['Calorie-Dense', 'Euphoric', 'Foggy']
+[2025-06-06 16:27:00,990] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product OGKush
+[2025-06-06 16:27:05,145] DEBUG: [ReverseLogic] ReverseLogic: Path found for product OGKush: [('Addy', {'Thought-Provoking', 'Calming'}), ('Donut', {'Thought-Provoking', 'Calorie-Dense', 'Calming'}), ('Mega Bean', {'Foggy', 'Energizing', 'Calorie-Dense', 'Glowing'}), ('Gasoline', {'Glowing', 'Toxic', 'Euphoric', 'Calorie-Dense', 'Foggy'})]
+[2025-06-06 16:27:05,145] DEBUG: [ReverseLogic] ReverseLogic: New best path selected: product=OGKush, length=4
+[2025-06-06 16:27:05,145] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Sour Diesel
+[2025-06-06 16:27:08,659] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Sour Diesel: [('Addy', {'Thought-Provoking', 'Refreshing'}), ('Donut', {'Thought-Provoking', 'Refreshing', 'Calorie-Dense'}), ('Mega Bean', {'Foggy', 'Energizing', 'Refreshing', 'Calorie-Dense'}), ('Gasoline', {'Refreshing', 'Toxic', 'Euphoric', 'Calorie-Dense', 'Foggy'})]
+[2025-06-06 16:27:08,659] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Green Crack
+[2025-06-06 16:27:10,177] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Green Crack: [('Donut', {'Energizing', 'Calorie-Dense'}), ('Gasoline', {'Euphoric', 'Calorie-Dense', 'Toxic'}), ('Mega Bean', {'Euphoric', 'Calorie-Dense', 'Foggy', 'Toxic'})]
+[2025-06-06 16:27:10,177] DEBUG: [ReverseLogic] ReverseLogic: New best path selected: product=Green Crack, length=3
+[2025-06-06 16:27:10,177] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Granddaddy Purple
+[2025-06-06 16:27:13,552] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Granddaddy Purple: [('Addy', {'Thought-Provoking', 'Gingeritis'}), ('Donut', {'Thought-Provoking', 'Calorie-Dense', 'Gingeritis'}), ('Mega Bean', {'Foggy', 'Energizing', 'Calorie-Dense', 'Gingeritis'}), ('Gasoline', {'Smelly', 'Toxic', 'Euphoric', 'Calorie-Dense', 'Foggy'})]
+[2025-06-06 16:27:13,552] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Meth
+[2025-06-06 16:27:17,348] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Meth: [('Addy', {'', 'Thought-Provoking'}), ('Donut', {'', 'Thought-Provoking', 'Calorie-Dense'}), ('Mega Bean', {'', 'Energizing', 'Calorie-Dense', 'Foggy'}), ('Gasoline', {'', 'Toxic', 'Euphoric', 'Calorie-Dense', 'Foggy'})]
+[2025-06-06 16:27:17,348] DEBUG: [ReverseLogic] ReverseLogic: Attempting forward_effect_search for product Cocaine
+[2025-06-06 16:27:20,622] DEBUG: [ReverseLogic] ReverseLogic: Path found for product Cocaine: [('Addy', {'', 'Thought-Provoking'}), ('Donut', {'', 'Thought-Provoking', 'Calorie-Dense'}), ('Mega Bean', {'', 'Energizing', 'Calorie-Dense', 'Foggy'}), ('Gasoline', {'', 'Toxic', 'Euphoric', 'Calorie-Dense', 'Foggy'})]
+[2025-06-06 16:27:20,622] DEBUG: [ReverseLogic] ReverseLogic: Best product Green Crack, final effects: {'Euphoric', 'Calorie-Dense', 'Foggy', 'Toxic'}
+[2025-06-06 16:27:20,622] DEBUG: [ReverseLogic] ReverseLogic: Price calculation for best product Green Crack: {'cost': {'base_product': 17, 'additives': 17, 'total': 34}, 'final_price': 64}
+[2025-06-06 16:27:20,622] DEBUG: [PickBestProductWorker] [PickBestProductWorker] Finished pick_best_product, emitting result
+[2025-06-06 16:27:20,622] DEBUG: [ReverseUI] [ReverseUI] Stopping loading dialog after result
+[2025-06-06 16:27:20,628] INFO: [UI] Building mixing path widget for: ['Green Crack', 'Donut', 'Gasoline', 'Mega Bean']
+[2025-06-06 16:27:20,628] DEBUG: [Icons] Resolved icon path for 'Green Crack': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Green_Crack_Icon.webp
+[2025-06-06 16:27:20,629] DEBUG: [Icons] Resolved icon path for 'Donut': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Donut_Icon.webp
+[2025-06-06 16:27:20,629] DEBUG: [Icons] Resolved icon path for 'Gasoline': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Gasoline_Icon.webp
+[2025-06-06 16:27:20,630] DEBUG: [Icons] Resolved icon path for 'Mega Bean': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Mega_Bean_Icon.webp
+[2025-06-06 16:27:20,634] INFO: [ReverseUI] ReverseUI: Displayed unmix results
+[2025-06-06 16:30:25,188] INFO: [ReverseUI] ReverseUI: Returning to main window
+[2025-06-06 16:30:25,223] DEBUG: [WindowNavigation] ReverseWindow closed, main window shown
+[2025-06-06 16:39:21,409] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:39:21,409] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:39:21,409] INFO: [Initialization] Core managers initialized
+[2025-06-06 16:39:21,409] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 16:39:21,411] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:39:21,411] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 16:39:21,418] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 16:39:21,418] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 16:39:21,444] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:39:21,449] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 16:39:21,449] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 16:39:21,510] INFO: [Startup] Application started
+[2025-06-06 16:40:53,164] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 16:40:53,164] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 16:40:53,164] INFO: [Initialization] Core managers initialized
+[2025-06-06 16:40:53,164] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 16:40:53,166] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:40:53,166] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 16:40:53,174] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 16:40:53,175] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 16:40:53,201] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 16:40:53,204] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 16:40:53,204] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 16:40:53,269] INFO: [Startup] Application started
+[2025-06-06 16:40:54,207] DEBUG: [RankSelection] Accessible products for Streetrat I: {'OGKush'}
+[2025-06-06 16:40:54,207] INFO: [MainWindow] Rank selected: Streetrat I
+[2025-06-06 16:40:54,278] DEBUG: [RankSelection] Accessible products for Streetrat II: {'OGKush'}
+[2025-06-06 16:40:54,278] INFO: [MainWindow] Rank selected: Streetrat II
+[2025-06-06 16:40:54,316] DEBUG: [RankSelection] Accessible products for Streetrat III: {'OGKush'}
+[2025-06-06 16:40:54,316] INFO: [MainWindow] Rank selected: Streetrat III
+[2025-06-06 16:40:54,360] DEBUG: [RankSelection] Accessible products for Streetrat IV: {'Sour Diesel', 'OGKush'}
+[2025-06-06 16:40:54,360] INFO: [MainWindow] Rank selected: Streetrat IV
+[2025-06-06 16:40:55,296] INFO: [MainWindow] Unmix clicked with rank: Streetrat IV
+[2025-06-06 16:40:55,297] INFO: [ReverseWindow] ReverseWindow initialized
+[2025-06-06 16:40:55,297] DEBUG: [ReverseWindow] Loaded nested effect rules and additives
+[2025-06-06 16:40:55,297] DEBUG: [ReverseWindow] PricingManager instantiated in ReverseWindow
+[2025-06-06 16:40:55,297] DEBUG: [ReverseLogic] ReverseLogic initialized with 2 products and 16 nested effect rules.
+[2025-06-06 16:40:55,297] DEBUG: [ReverseWindow] ReverseLogic instantiated in ReverseWindow
+[2025-06-06 16:40:55,297] DEBUG: [ReverseUI] [ReverseUI] __init__ start
+[2025-06-06 16:40:55,298] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 16:40:55,298] DEBUG: [ReverseUI] ReverseUI: Applied font 'Berenika'
+[2025-06-06 16:40:55,298] DEBUG: [ReverseUI] ReverseUI: Applied font color '#FF0000'
+[2025-06-06 16:40:55,299] INFO: [ReverseUI] ReverseUI: Applied background 'assets/images/background2.png'
+[2025-06-06 16:40:55,302] DEBUG: [ReverseUI] ReverseUI: Created 34 effect checkboxes (max 8)
+[2025-06-06 16:40:55,304] DEBUG: [ReverseUI] [ReverseUI] _build_ui end
+[2025-06-06 16:40:55,304] DEBUG: [ReverseUI] [ReverseUI] __init__ end
+[2025-06-06 16:40:55,306] INFO: [ReverseWindow] ReverseUI set as central widget
+[2025-06-06 16:40:55,329] INFO: [WindowNavigation] Opened window: ReverseWindow
+[2025-06-06 16:40:58,864] INFO: [ReverseWindow] Calling return_callback before closing ReverseWindow
+[2025-06-06 16:40:58,873] DEBUG: [WindowNavigation] ReverseWindow closed, main window shown
+[2025-06-06 16:40:58,873] INFO: [ReverseWindow] ReverseWindow closed
+[2025-06-06 17:56:32,587] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 17:56:32,587] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 17:56:32,587] INFO: [Initialization] Core managers initialized
+[2025-06-06 17:56:32,587] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 17:56:32,589] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 17:56:32,589] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 17:56:32,595] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 17:56:32,595] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 17:56:32,622] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 17:56:32,624] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 17:56:32,625] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 17:56:32,680] INFO: [Startup] Application started
+[2025-06-06 17:56:37,447] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 17:56:37,448] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:00:12,309] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:00:12,309] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:00:12,309] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:00:12,310] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:00:12,311] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:00:12,312] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:00:12,318] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:00:12,318] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:00:12,346] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 18:00:38,237] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:00:38,237] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:00:38,237] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:00:38,237] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:00:38,239] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:00:38,239] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:00:38,245] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:00:38,246] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:00:38,270] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 18:00:50,076] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:00:50,076] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:00:50,076] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:00:50,076] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:00:50,077] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:00:50,078] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:00:50,084] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:00:50,084] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:00:50,109] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 18:00:50,112] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:00:50,112] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 18:00:50,169] INFO: [Startup] Application started
+[2025-06-06 18:00:53,933] DEBUG: [RankSelection] Accessible products for Hoodlum II: {'Sour Diesel', 'OGKush', 'Green Crack'}
+[2025-06-06 18:00:53,933] INFO: [MainWindow] Rank selected: Hoodlum II
+[2025-06-06 18:00:55,126] INFO: [MainWindow] Mix clicked with rank: Hoodlum II
+[2025-06-06 18:00:55,127] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:00:55,127] DEBUG: [MixerWindow] Applied font: Berenika
+[2025-06-06 18:00:55,127] DEBUG: [MixerWindow] Applied font color: #FF0000
+[2025-06-06 18:00:55,128] INFO: [MixerWindow] Applied background: assets/images/background2.png
+[2025-06-06 18:00:55,128] INFO: [MixerWindow] MixerWindow initialized
+[2025-06-06 18:00:55,128] DEBUG: [MixerWindow] PricingManager instantiated
+[2025-06-06 18:00:55,128] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:00:55,128] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:00:55,128] DEBUG: [MixerWindow] ColorManager instantiated
+[2025-06-06 18:00:55,128] DEBUG: [MixerLogic] MixerLogic: Built additive-effect transformation rules
+[2025-06-06 18:00:55,128] DEBUG: [MixerLogic] MixerLogic: Filtered products/additives by accessible rank
+[2025-06-06 18:00:55,128] DEBUG: [MixerWindow] MixerLogic initialized
+[2025-06-06 18:00:55,128] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:00:55,129] DEBUG: [MixerUI] MixerUI: Applied font 'Berenika'
+[2025-06-06 18:00:55,129] DEBUG: [MixerUI] MixerUI: Applied font color '#FF0000'
+[2025-06-06 18:00:55,129] INFO: [MixerUI] MixerUI: Applied background 'assets/images/background2.png'
+[2025-06-06 18:00:55,132] INFO: [UI] Created button: '↑' with size (NonexNone)
+[2025-06-06 18:00:55,132] INFO: [UI] Created button: '↓' with size (NonexNone)
+[2025-06-06 18:00:55,132] INFO: [UI] Created button: '✕' with size (NonexNone)
+[2025-06-06 18:00:55,133] DEBUG: [MixerUI] MixerUI: Added new additive dropdown
+[2025-06-06 18:00:55,133] INFO: [UI] Created button: 'Add Item' with size (NonexNone)
+[2025-06-06 18:00:55,134] INFO: [UI] Created button: 'Mix Now' with size (NonexNone)
+[2025-06-06 18:00:55,134] INFO: [UI] Created button: 'Reset' with size (NonexNone)
+[2025-06-06 18:00:55,134] INFO: [UI] Created button: 'Return to Start' with size (NonexNone)
+[2025-06-06 18:00:55,317] INFO: [MixerWindow] MixerUI set as central widget
+[2025-06-06 18:00:55,338] INFO: [WindowNavigation] Opened window: MixerWindow
+[2025-06-06 18:00:58,841] INFO: [MixerLogic] MixerLogic: calculate_mix success for base 'OGKush'
+[2025-06-06 18:00:58,842] INFO: [MixerUI] MixerUI: Displayed mix results for base 'OGKush'
+[2025-06-06 18:00:58,842] INFO: [UI] Building mixing path widget for: ['OGKush', 'Banana']
+[2025-06-06 18:00:58,842] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-06 18:00:58,842] DEBUG: [Icons] Resolved icon path for 'Banana': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Banana_Icon.webp
+[2025-06-06 18:01:04,621] INFO: [MixerWindow] Calling return_callback before closing MixerWindow
+[2025-06-06 18:01:04,626] DEBUG: [WindowNavigation] MixerWindow closed, main window shown
+[2025-06-06 18:01:04,626] INFO: [MixerWindow] MixerWindow closed
+[2025-06-06 18:01:05,622] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 18:01:05,623] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:01:48,070] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:01:48,071] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:01:48,071] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:01:48,071] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:01:48,072] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:01:48,073] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:01:48,080] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:01:48,080] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:01:48,107] INFO: [MainWindow] Applied background: assets/images/background2.png
+[2025-06-06 18:01:48,110] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:01:48,110] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 18:01:48,166] INFO: [Startup] Application started
+[2025-06-06 18:01:49,385] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 18:01:49,385] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:01:49,426] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 18:01:49,426] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 18:01:49,432] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 18:01:49,445] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background2.png'
+[2025-06-06 18:01:49,446] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 18:01:51,601] DEBUG: [ProductPricePage] ProductPricePage: Applied background 'assets/images/background2.png'
+[2025-06-06 18:01:51,602] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:01:51,602] DEBUG: [ProductPricePage] ProductPricePage: Loaded custom font 'Berenika'
+[2025-06-06 18:01:51,602] DEBUG: [ProductPricePage] ProductPricePage: Building tabs for products
+[2025-06-06 18:01:51,608] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'OGKush' with prev_choices={}
+[2025-06-06 18:01:51,611] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Sour Diesel' with prev_choices={}
+[2025-06-06 18:01:51,614] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Green Crack' with prev_choices={}
+[2025-06-06 18:01:51,617] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Granddaddy Purple' with prev_choices={}
+[2025-06-06 18:01:51,620] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Meth' with prev_choices={}
+[2025-06-06 18:01:51,623] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Cocaine' with prev_choices={}
+[2025-06-06 18:01:51,623] INFO: [ProductPricePage] ProductPricePage initialized
+[2025-06-06 18:01:52,890] INFO: [SettingsPage] SettingsPage: Opened ProductPricePage
+[2025-06-06 18:01:54,506] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:01:54,508] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:01:54,514] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:01:54,517] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:01:54,517] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 18:01:54,554] INFO: [Settings] Background changed to: assets/images/background1.png
+[2025-06-06 18:01:54,554] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:01:54,554] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 18:04:43,742] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:04:43,742] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:04:43,742] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:04:43,742] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:04:43,744] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:04:43,744] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:04:43,750] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:04:43,750] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:04:43,771] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 18:04:43,773] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:04:43,773] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 18:04:43,828] INFO: [Startup] Application started
+[2025-06-06 18:04:45,232] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 18:04:45,232] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:04:45,276] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 18:04:45,276] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 18:04:45,282] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 18:04:45,283] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background1.png'
+[2025-06-06 18:04:45,283] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 18:04:47,662] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:04:47,664] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:04:47,671] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:04:47,674] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:04:47,674] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 18:04:47,687] INFO: [Settings] Background changed to: assets/images/background1.png
+[2025-06-06 18:04:47,687] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:04:47,687] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 18:09:56,996] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:09:56,996] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:09:56,996] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:09:56,996] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:09:56,998] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:09:56,999] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:09:57,006] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:09:57,006] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:09:57,027] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 18:09:57,030] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:09:57,030] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 18:09:57,089] INFO: [Startup] Application started
+[2025-06-06 18:09:59,011] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 18:09:59,012] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:09:59,056] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 18:09:59,057] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 18:09:59,063] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 18:09:59,064] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background1.png'
+[2025-06-06 18:09:59,064] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 18:10:01,056] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:10:01,058] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:10:01,066] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:10:01,069] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:10:01,069] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 18:10:01,083] INFO: [Settings] Background changed to: assets/images/background1.png
+[2025-06-06 18:10:01,083] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:10:01,083] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 18:11:16,057] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:11:16,057] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:11:16,057] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:11:16,058] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:11:16,060] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:11:16,060] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:11:16,067] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:11:16,067] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:11:16,087] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 18:11:16,089] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:11:16,089] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 18:11:16,151] INFO: [Startup] Application started
+[2025-06-06 18:11:17,441] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 18:11:17,441] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:11:17,486] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 18:11:17,486] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 18:11:17,493] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 18:11:17,493] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background1.png'
+[2025-06-06 18:11:17,493] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 18:11:19,717] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:11:19,719] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:11:19,723] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:11:19,726] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:11:19,726] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 18:11:19,740] INFO: [Settings] Background changed to: assets/images/background1.png
+[2025-06-06 18:11:19,740] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:11:19,740] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 18:16:41,675] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:16:41,675] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:16:41,675] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:16:41,676] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:16:41,677] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:16:41,677] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:16:41,683] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:16:41,683] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:16:41,704] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 18:16:41,707] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:16:41,707] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 18:16:41,765] INFO: [Startup] Application started
+[2025-06-06 18:16:43,180] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 18:16:43,180] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:16:43,226] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 18:16:43,226] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 18:16:43,232] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 18:16:43,233] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background1.png'
+[2025-06-06 18:16:43,233] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 18:16:45,280] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:16:45,282] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:16:45,286] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:16:45,289] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:16:45,289] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 18:16:45,302] INFO: [Settings] Background changed to: assets/images/background1.png
+[2025-06-06 18:16:45,302] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:16:45,303] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 18:16:57,689] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 18:16:57,689] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:16:57,733] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 18:16:57,734] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 18:16:57,740] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 18:16:57,740] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background1.png'
+[2025-06-06 18:16:57,741] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 18:17:00,761] DEBUG: [ProductPricePage] ProductPricePage: Applied background 'assets/images/background1.png'
+[2025-06-06 18:17:00,762] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:17:00,762] DEBUG: [ProductPricePage] ProductPricePage: Loaded custom font 'Berenika'
+[2025-06-06 18:17:00,762] DEBUG: [ProductPricePage] ProductPricePage: Building tabs for products
+[2025-06-06 18:17:00,767] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'OGKush' with prev_choices={}
+[2025-06-06 18:17:00,770] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Sour Diesel' with prev_choices={}
+[2025-06-06 18:17:00,773] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Green Crack' with prev_choices={}
+[2025-06-06 18:17:00,776] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Granddaddy Purple' with prev_choices={}
+[2025-06-06 18:17:00,778] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Meth' with prev_choices={}
+[2025-06-06 18:17:00,782] DEBUG: [ProductPricePage] ProductPricePage: Tab created for 'Cocaine' with prev_choices={}
+[2025-06-06 18:17:00,782] INFO: [ProductPricePage] ProductPricePage initialized
+[2025-06-06 18:17:02,663] INFO: [SettingsPage] SettingsPage: Opened ProductPricePage
+[2025-06-06 18:17:04,030] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:17:04,032] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:17:04,036] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:17:04,039] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:17:04,039] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 18:17:04,079] INFO: [Settings] Background changed to: assets/images/background1.png
+[2025-06-06 18:17:04,079] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:17:04,079] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 18:17:39,837] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:17:39,837] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:17:39,837] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:17:39,838] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:17:39,839] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:17:39,840] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:17:39,846] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:17:39,846] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:17:39,867] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 18:17:39,869] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:17:39,869] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 18:17:39,926] INFO: [Startup] Application started
+[2025-06-06 18:17:43,168] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 18:17:43,168] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:17:43,212] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 18:17:43,213] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 18:17:43,219] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 18:17:43,220] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background1.png'
+[2025-06-06 18:17:43,220] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 18:17:45,576] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:17:45,579] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:17:45,583] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:17:45,586] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:17:45,586] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 18:17:45,600] INFO: [Settings] Background changed to: assets/images/background1.png
+[2025-06-06 18:17:45,600] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:17:45,600] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 18:24:12,059] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 18:24:12,059] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 18:24:12,059] INFO: [Initialization] Core managers initialized
+[2025-06-06 18:24:12,059] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 18:24:12,061] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:24:12,061] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 18:24:12,069] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 18:24:12,069] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 18:24:12,090] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 18:24:12,093] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:24:12,093] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 18:24:12,156] INFO: [Startup] Application started
+[2025-06-06 18:24:13,572] DEBUG: [SettingsPage] SettingsPage: Loaded custom font family 'Berenika'
+[2025-06-06 18:24:13,572] DEBUG: [SettingsPage] SettingsPage: custom_font_family = Berenika
+[2025-06-06 18:24:13,618] INFO: [SettingsPage] SettingsPage: Applied background 'assets/images/background1.png'
+[2025-06-06 18:24:13,618] DEBUG: [SettingsPage] SettingsPage: Font preview updated to 'Berenika'
+[2025-06-06 18:24:13,624] INFO: [SettingsPage] SettingsPage: Applied initial settings to controls
+[2025-06-06 18:24:13,624] DEBUG: [SettingsPage] SettingsPage: Applied initial background 'assets/images/background1.png'
+[2025-06-06 18:24:13,624] INFO: [SettingsPage] SettingsPage initialized
+[2025-06-06 18:24:15,155] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:24:15,157] INFO: [SettingsPage] SettingsPage: Saved settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:24:15,162] DEBUG: [SettingsPage] SettingsPage: Collected settings {'background': 'assets/images/background1.png', 'font': 'Berenika', 'font_color': '#FF0000', 'max_effects': 8, 'rank_filter_disabled': False}
+[2025-06-06 18:24:15,165] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 18:24:15,165] DEBUG: [Settings] Font changed to: Berenika
+[2025-06-06 18:24:15,177] INFO: [Settings] Background changed to: assets/images/background1.png
+[2025-06-06 18:24:15,177] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 18:24:15,178] INFO: [Settings] Settings updated via SettingsPage
+[2025-06-06 22:00:30,973] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 22:00:30,973] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 22:00:30,973] INFO: [Initialization] Core managers initialized
+[2025-06-06 22:00:30,974] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 22:00:30,975] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 22:00:30,976] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 22:00:30,982] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 22:00:30,982] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 22:00:31,002] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 22:00:31,004] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 22:00:31,004] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 22:00:31,060] INFO: [Startup] Application started
+[2025-06-06 22:01:38,293] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-06 22:01:38,293] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-06 22:01:38,293] INFO: [Initialization] Core managers initialized
+[2025-06-06 22:01:38,296] INFO: [Initialization] SettingsManager initialized
+[2025-06-06 22:01:38,302] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-06 22:01:38,303] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-06 22:01:38,309] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-06 22:01:38,309] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-06 22:01:38,334] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-06 22:01:38,348] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-06 22:01:38,348] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-06 22:01:38,409] INFO: [Startup] Application started

@@ -16,6 +16,7 @@ from helpers.effect_utils import extract_effects
 from helpers.rank import RankManager
 from helpers.pricing_manager import PricingManager
 from helpers.effect_path import forward_effect_search
+from helpers.utils import resource_path
 from models.loader import load_additives
 
 
@@ -151,12 +152,27 @@ class ReverseLogic:
         final_eff = path[-1][1] if path else set()
         log_debug(f"ReverseLogic: Path found: {path}", tag="ReverseLogic")
 
-        # Compute pricing
+        # Compute pricing (use correct keyword chosen_effects)
         price_data = self.pricing_manager.calculate_price(
             base_product=product_name,
             additive_names=additive_names,
-            effects=final_eff,
+            chosen_effects=final_eff,
         )
+        # Round each cost field and final_price to nearest dollar
+        cost = price_data.get("cost", {})
+        rounded_base   = round(cost.get("base_cost", 0))
+        rounded_add    = round(cost.get("additives", 0))
+        rounded_total  = round(cost.get("total", 0))
+        rounded_price  = round(price_data.get("final_price", 0))
+
+        # Rename keys so the UI can read cost["base_product"], cost["additives"], cost["total"]
+        price_data["cost"] = {
+            "base_product": rounded_base,
+            "additives": rounded_add,
+            "total": rounded_total
+        }
+        price_data["final_price"] = rounded_price
+
         log_debug(f"ReverseLogic: Price calculation completed: {price_data}", tag="ReverseLogic")
 
         return {
@@ -212,8 +228,22 @@ class ReverseLogic:
             price_data = self.pricing_manager.calculate_price(
                 base_product=best_prod_name,
                 additive_names=[],
-                effects=base_eff,
+                chosen_effects=base_eff,
             )
+            # Round costs
+            cost = price_data.get("cost", {})
+            rounded_base   = round(cost.get("base_cost", 0))
+            rounded_add    = round(cost.get("additives", 0))
+            rounded_total  = round(cost.get("total", 0))
+            rounded_price  = round(price_data.get("final_price", 0))
+
+            price_data["cost"] = {
+                "base_product": rounded_base,
+                "additives": rounded_add,
+                "total": rounded_total
+            }
+            price_data["final_price"] = rounded_price
+
             log_debug(f"ReverseLogic: Price calculation for direct match {best_prod_name}: {price_data}", tag="ReverseLogic")
 
             return {
@@ -272,8 +302,22 @@ class ReverseLogic:
         price_data = self.pricing_manager.calculate_price(
             base_product=best_product,
             additive_names=additive_names,
-            effects=final_eff,
+            chosen_effects=final_eff,
         )
+        # Round costs
+        cost = price_data.get("cost", {})
+        rounded_base   = round(cost.get("base_cost", 0))
+        rounded_add    = round(cost.get("additives", 0))
+        rounded_total  = round(cost.get("total", 0))
+        rounded_price  = round(price_data.get("final_price", 0))
+
+        price_data["cost"] = {
+            "base_product": rounded_base,
+            "additives": rounded_add,
+            "total": rounded_total
+        }
+        price_data["final_price"] = rounded_price
+
         log_debug(f"ReverseLogic: Price calculation for best product {best_product}: {price_data}", tag="ReverseLogic")
 
         return {

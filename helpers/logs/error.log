@@ -22,3 +22,36 @@ Traceback (most recent call last):
     log_info(f"MixerLogic: calculate_mix success for base '{base_product_name}'", tag="MixerLogic")
     ^^^^^^^^
 NameError: name 'log_info' is not defined
+[2025-06-06 15:50:59,174] ERROR: [MixerLogic] MixerLogic: Mixing failed: name 'chosen_effects' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 225, in calculate_mix
+    price_data = self.pricing_manager.calculate_price(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\helpers\pricing_manager.py", line 116, in calculate_price
+    for eff_name in chosen_effects:
+                    ^^^^^^^^^^^^^^
+NameError: name 'chosen_effects' is not defined
+[2025-06-06 15:52:28,137] ERROR: [MixerLogic] MixerLogic: Mixing failed: PricingManager.calculate_price() got an unexpected keyword argument 'effects'
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 225, in calculate_mix
+    price_data = self.pricing_manager.calculate_price(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PricingManager.calculate_price() got an unexpected keyword argument 'effects'
+[2025-06-06 15:59:07,814] ERROR: [MixerLogic] MixerLogic: Mixing failed: 'base_product'
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 230, in calculate_mix
+    base_cost = price_data["cost"]["base_product"]
+                ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'base_product'
+[2025-06-06 16:02:45,679] ERROR: [MixerLogic] MixerLogic: Mixing failed: PricingManager.calculate_price() got an unexpected keyword argument 'effects'
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 225, in calculate_mix
+    price_data = self.pricing_manager.calculate_price(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PricingManager.calculate_price() got an unexpected keyword argument 'effects'
+[2025-06-06 16:04:59,114] ERROR: [MixerLogic] MixerLogic: Mixing failed: name 'base_name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\logic\mixer_logic.py", line 226, in calculate_mix
+    base_product=base_name,
+                 ^^^^^^^^^
+NameError: name 'base_name' is not defined

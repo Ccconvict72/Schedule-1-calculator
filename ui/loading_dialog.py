@@ -18,7 +18,7 @@ class LoadingDialog(QDialog):
         self.label = QLabel()
         self.label.setAlignment(Qt.AlignmentFlag.AlignCenter)
 
-        self.movie = QMovie("assets/images/processing.gif")
+        self.movie = QMovie(resource_path("assets/images/processing.gif"))
         self.label.setMovie(self.movie)
         layout.addWidget(self.label)
 

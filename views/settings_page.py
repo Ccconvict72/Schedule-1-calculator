@@ -42,6 +42,7 @@ from PyQt6.QtCore import Qt, pyqtSignal
 from helpers.background_utils import set_background
 from helpers.settings_manager import DEFAULT_SETTINGS
 from helpers.logger import log_info, log_debug
+from helpers.utils import resource_path
 from views.product_pricing import ProductPricePage
 from models.loader import load_products
 
@@ -175,11 +176,12 @@ class SettingsPage(QDialog):
 
         # Predefined background image paths
         self.background_paths = [
-            "assets/images/background1.png",
-            "assets/images/background2.png",
-            "assets/images/background3.png",
-            "assets/images/background4.png"
+            resource_path("assets/images/background1.png"),
+            resource_path("assets/images/background2.png"),
+            resource_path("assets/images/background3.png"),
+            resource_path("assets/images/background4.png")
         ]
+
         self.background_radio_buttons: list[QRadioButton] = []
         self.bg_button_group = QButtonGroup(self)
         self.bg_button_group.setExclusive(True)

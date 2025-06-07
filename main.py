@@ -1,6 +1,6 @@
-"""
-main.py
+# main.py
 
+"""
 Entry point for the Schedule 1 Calculator application.
 Sets up the main window, initializes data/models, and launches the PyQt6 GUI.
 """
@@ -17,10 +17,13 @@ from PyQt6.QtWidgets import (
     QVBoxLayout,
     QComboBox,
     QToolButton,
-    QLabel
+    QMessageBox
 )
 from PyQt6.QtGui import QFont, QIcon
-from PyQt6.QtCore import Qt
+from PyQt6.QtCore import Qt, QSize
+
+# Application version
+from version import __version__
 
 # Helper functions and managers
 from helpers.logger import log_info, log_debug, log_critical
@@ -31,6 +34,8 @@ from helpers.settings_manager import SettingsManager
 from helpers.rank import RankManager
 from helpers.color_manager import ColorManager
 from helpers.pricing_manager import PricingManager
+from helpers.utils import resource_path
+
 
 # Core application logic
 from logic.mixer_logic import MixerLogic
@@ -49,17 +54,17 @@ from views.settings_page import SettingsPage
 from views.mixer import MixerWindow
 from views.reverse import ReverseWindow
 from views.product_pricing import ProductPricePage
-
+from views.about_page import AboutDialog
 
 class MainWindow(QMainWindow):
     """
     MainWindow is the primary QMainWindow for Schedule 1 Calculator.
     It handles:
-    1) Loading initial data (products, additives, effects, transformations, ranks).
-    2) Managing core managers (RankManager, PricingManager, ColorManager).
-    3) Setting up application-wide settings via SettingsManager.
-    4) Building the main UI (rank dropdown, Mix/Unmix buttons, Settings button).
-    5) Handling navigation to child windows (Mixer, Reverse, Product Pricing).
+      1) Loading initial data (products, additives, effects, transformations, ranks).
+      2) Managing core managers (RankManager, PricingManager, ColorManager).
+      3) Setting up application‐wide settings via SettingsManager.
+      4) Building the main UI (rank dropdown, Mix/Unmix buttons, Settings & About buttons).
+      5) Handling navigation to child windows (Mixer, Reverse, Product Pricing).
     """
 
     def __init__(self, ranks: List[str]):
@@ -110,7 +115,7 @@ class MainWindow(QMainWindow):
         # ——————————————————————————————
         # 4) UI Setup
         # ——————————————————————————————
-        self.setWindowTitle("Schedule 1 Calculator – Main")
+        self.setWindowTitle(f"Schedule 1 Calculator – v{__version__}")
         self.setMinimumSize(500, 400)
 
         # Central widget and layout
@@ -164,7 +169,7 @@ class MainWindow(QMainWindow):
         self.settings_button.setToolButtonStyle(
             Qt.ToolButtonStyle.ToolButtonTextUnderIcon
         )
-        self.settings_button.setIcon(QIcon("assets/icons/settings.webp"))
+        self.settings_button.setIcon(QIcon(resource_path("assets/icons/settings.webp")))
         self.settings_button.setText("Settings")
         self.settings_button.setCursor(Qt.CursorShape.PointingHandCursor)
         self.settings_button.setStyleSheet(
@@ -185,10 +190,46 @@ class MainWindow(QMainWindow):
         self.settings_button.clicked.connect(self.open_settings)
         self.settings_button.setFont(app_font)
 
-        # Position settings button in top-right corner
-        self.settings_button.move(self.width() - 100, self.height() - 80)
+        # 4f) About Button (icon only)
+        self.about_button = QToolButton(self)
+        self.about_button.setIcon(QIcon(resource_path("assets/icons/About_Icon.webp")))
+        about_icon = QIcon(resource_path("assets/icons/About_Icon.webp"))
+        self.about_button.setIcon(about_icon)
+        
+        #Make the icon larger (e.g., 32x32)
+        self.about_button.setIconSize(about_icon.actualSize(QSize(32, 32)))
+        
+        #Force the button's overall size to fit the icon snugly
+        # (a few pixels of padding for a hover effect)
+        self.about_button.setFixedSize(36, 36)
+        
+        self.about_button.setCursor(Qt.CursorShape.PointingHandCursor)
+        
+        self.about_button.setStyleSheet(
+            f"""
+            QToolButton {{
+                padding: 2px;  /*minimal padding */
+                color: {font_color};
+                background-color: rgba(50, 50, 50, 153);
+                border: none;
+            }}
+            QToolButton:hover {{
+                background-color: rgba(50, 50, 50, 180);
+            }}
+            """
+        )
+        self.about_button.setToolTip("About")
+        self.about_button.setFont(app_font)
+        self.about_button.clicked.connect(self._show_about)
 
-        # 4f) Rank Filtering (hide/show logic based on saved setting)
+        # Position settings and about buttons in top‐right corner
+        self.settings_button.move(self.width() - 100, 10)
+        self.about_button.move(
+            self.width() - 100 - self.about_button.width() - 10,
+            10
+        )
+
+        # 4g) Rank Filtering (hide/show logic based on saved setting)
         self.apply_rank_filter()
 
         # Track open child windows
@@ -273,7 +314,7 @@ class MainWindow(QMainWindow):
 
     def apply_settings(self):
         """
-        Reapply font, font color, settings button style, and background
+        Reapply font, font color, settings & about button style, and background
         whenever settings are changed.
         """
         # 1) Update font family
@@ -287,21 +328,17 @@ class MainWindow(QMainWindow):
         font_color = self.settings_manager.get("font_color") or "#FFFFFF"
         QApplication.instance().setStyleSheet(f"* {{ color: {font_color}; }}")
 
-        # 3) Update Settings button styling
-        self.settings_button.setStyleSheet(
-            f"""
-            QToolButton {{
-                color: {font_color};
-                background-color: rgba(50, 50, 50, 153);
-                border: none;
-                padding: 4px;
-            }}
-            QToolButton:hover {{
-                background-color: rgba(50, 50, 50, 180);
-            }}
-            """
+        # 3) Update Settings & About button styling
+        style = (
+            f"QToolButton {{ padding: 10px; color: {font_color}; "
+            f"background-color: rgba(50, 50, 50, 153); border: none; }}\n"
+            f"QToolButton:hover {{ background-color: rgba(50, 50, 50, 180); }}"
         )
+
+        self.settings_button.setStyleSheet(style)
         self.settings_button.setFont(new_font)
+        self.about_button.setStyleSheet(style)
+        self.about_button.setFont(new_font)
 
         # 4) Background update (last)
         bg = self.settings_manager.get("background")
@@ -329,13 +366,24 @@ class MainWindow(QMainWindow):
 
     def resizeEvent(self, event):
         """
-        Override resizeEvent to reposition the settings button in the top-right corner.
+        Override resizeEvent to reposition the settings & about buttons in the top‐right corner.
         """
         super().resizeEvent(event)
         self.settings_button.move(
             self.width() - self.settings_button.width() - 10,
             10
         )
+        self.about_button.move(
+            self.width() - self.settings_button.width() - self.about_button.width() - 20,
+            10
+        )
+
+    def _show_about(self):
+        """
+        Display the About dialog.
+        """
+        dlg = AboutDialog(self)
+        dlg.exec()
 
     def _open_window(self, window_attr_name, window_cls, *args, **kwargs):
         """
@@ -428,6 +476,15 @@ class MainWindow(QMainWindow):
         log_info("ProductPricePage opened", tag="WindowNavigation")
 
         # Any saved settings changes will be reapplied via _refresh_all_children
+    def closeEvent(self, event):
+        reply = QMessageBox.question(
+            self, "Exit", "Are you sure you want to quit?",
+            QMessageBox.StandardButton.Yes | QMessageBox.StandardButton.No
+        )
+        if reply == QMessageBox.StandardButton.Yes:
+            event.accept()
+        else:
+            event.ignore()
 
 def main():
     """
@@ -447,6 +504,7 @@ def main():
     log_info("Application started", tag="Startup")
 
     sys.exit(app.exec())
+
 
 
 if __name__ == "__main__":

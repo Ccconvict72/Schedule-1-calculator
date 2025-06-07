@@ -94,7 +94,7 @@ class MixerUI(QWidget):
         # If no valid background in settings, use default image
         bg = self.settings_manager.get("background") if self.settings_manager else None
         if not (bg and os.path.exists(bg)):
-            set_background(self, "assets/images/background1.png")
+            set_background(self, resource_path("assets/images/background1.png"))
 
         # Build UI components
         self.init_ui()

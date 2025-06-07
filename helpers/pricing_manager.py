@@ -1,14 +1,9 @@
-"""
-helpers/pricing_manager.py
-
-This module defines:
-1) Utility functions to calculate soil cost, enhancer cost, and specialized prices for weed, cocaine, and meth.
-2) A PricingManager class that wraps these utilities and provides a `calculate_price` method used by MixerLogic and ReverseLogic.
-"""
+# File: helpers/pricing_manager.py
 
 import math
 from typing import List, Dict
-from models.schemas import Product, Additive  # Pydantic schemas
+from models.schemas import Product, Additive, Effect
+from helpers.utils import resource_path
 
 def calculate_soil_cost(soil_type: str) -> float:
     soil_data = {
@@ -51,68 +46,88 @@ def calculate_meth_price(pseudo_quality: str) -> int:
     final_unit_price = math.ceil(batch_cost / 10) + 2
     return final_unit_price
 
+
 class PricingManager:
     """
     Wraps pricing utilities and provides a unified interface for calculating:
-      - Base product cost
-      - Additive cost
-      - Total cost (base + additives)
-      - Final sell price
+      – base_cost    : Product.Price   (what it costs you to produce one unit),
+      – base_value   : Product.Value   (the raw “sell price” before multipliers),
+      – additive_cost: sum of Additive.Price,
+      – total_cost   : base_cost + additive_cost,
+      – final_price  : base_value × (1 + sum_of_effect_multipliers).
     """
+
     def __init__(
         self,
         products: Dict[str, Product],
         additives: Dict[str, Additive],
-        effects: Dict[str, object] = None,
+        effects: Dict[str, Effect] = None,
     ):
         self.products = products      # dict[str, Product]
         self.additives = additives    # dict[str, Additive]
-        self.effects = effects or {}
+        self.effects = effects or {}  # dict[str, Effect]
 
     def calculate_price(
         self,
         base_product: str,
         additive_names: List[str],
-        effects: List[str],
+        chosen_effects: List[str],
     ) -> Dict[str, object]:
         """
-        Compute pricing data for a mix or unmix operation.
+        1) base_cost = Product.Price
+        2) base_value = Product.Value
+        3) additive_cost = sum(Additive.Price for each additive in additive_names)
+        4) total_cost = base_cost + additive_cost
+        5) total_effect_multiplier = sum(Effect.Multiplier for each effect in chosen_effects)
+        6) final_sell_price = base_value * (1 + total_effect_multiplier)
 
-        Args:
-          base_product (str): Name of the base product.
-          additive_names (List[str]): List of additive names applied.
-          effects (List[str]): Resulting effects (unused for cost, but included).
-
-        Returns:
+        Returns a dict with two keys:
           {
             "cost": {
-              "base_product": float,
-              "additives": float,
-              "total": float
+                "base_cost": float,
+                "base_value": float,
+                "additives": float,
+                "total": float
             },
             "final_price": float
           }
         """
-        # 1) Base product cost: read the product’s Price
-        base_obj = self.products.get(base_product)
-        base_cost = float(base_obj.Price) if base_obj else 0.0
+        # ——— 1) Look up the product object ———
+        product_obj = self.products.get(base_product)
+        if not product_obj:
+            base_cost = 0.0
+            base_value = 0.0
+        else:
+            base_cost = float(product_obj.Price)
+            base_value = float(product_obj.Value)
 
-        # 2) Additive cost: sum each additive’s Price
+        # ——— 2) Additive cost ———
         additive_cost = 0.0
         for name in additive_names:
-            additive = self.additives.get(name)
-            if additive and hasattr(additive, 'Price'):
-                additive_cost += float(additive.Price)
+            add_obj = self.additives.get(name)
+            if add_obj and hasattr(add_obj, "Price"):
+                additive_cost += float(add_obj.Price)
 
-        # 3) Total cost
+        # ——— 3) Total cost to produce one unit ———
         total_cost = base_cost + additive_cost
 
-        # 4) Final sell price: same as the product’s Price
-        final_price = float(base_obj.Price) if base_obj else 0.0
+        # ——— 4) Sum of chosen effects’ multipliers ———
+        total_effect_multiplier = 0.0
+        for eff_name in chosen_effects:
+            eff_obj = self.effects.get(eff_name)
+            if eff_obj and hasattr(eff_obj, "Multiplier"):
+                total_effect_multiplier += float(eff_obj.Multiplier)
+
+        # ——— 5) Final sell price based on base_value ———
+        if base_value > 0.0:
+            final_price = base_value * (1.0 + total_effect_multiplier)
+        else:
+            final_price = 0.0
 
         return {
             "cost": {
-                "base_product": base_cost,
+                "base_cost": base_cost,
+                "base_value": base_value,
                 "additives": additive_cost,
                 "total": total_cost,
             },

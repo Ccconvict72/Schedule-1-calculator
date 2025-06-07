@@ -5,49 +5,5 @@
     "product_pricing_disabled": false,
     "max_effects": 8,
     "rank_filter_disabled": false,
-    "product_pricing": {
-        "OGKush": {
-            "container": "Grow Tent",
-            "soil": "Extra Long-Life Soil",
-            "enhancers": [
-                "Fertilizer",
-                "Speed Grow"
-            ]
-        },
-        "Sour Diesel": {
-            "container": "Grow Tent",
-            "soil": "Extra Long-Life Soil",
-            "enhancers": [
-                "Fertilizer",
-                "Speed Grow"
-            ]
-        },
-        "Green Crack": {
-            "container": "Grow Tent",
-            "soil": "Extra Long-Life Soil",
-            "enhancers": [
-                "Fertilizer",
-                "Speed Grow"
-            ]
-        },
-        "Granddaddy Purple": {
-            "container": "Grow Tent",
-            "soil": "Extra Long-Life Soil",
-            "enhancers": [
-                "Fertilizer",
-                "Speed Grow"
-            ]
-        },
-        "Meth": {
-            "quality": "Premium"
-        },
-        "Cocaine": {
-            "container": "Grow Tent",
-            "soil": "Extra Long-Life Soil",
-            "enhancers": [
-                "Fertilizer",
-                "Speed Grow"
-            ]
-        }
-    }
+    "product_pricing": {}
 }

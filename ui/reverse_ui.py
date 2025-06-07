@@ -204,7 +204,7 @@ class ReverseUI(QWidget):
         # If no valid background, use default
         bg = self.settings_manager.get("background") if self.settings_manager else None
         if not (bg and os.path.exists(bg)):
-            set_background(self, "assets/images/background1.png")
+            set_background(self, resource_path("assets/images/background1.png"))
 
         main_layout = QVBoxLayout(self)
 

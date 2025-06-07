@@ -34,6 +34,7 @@ from models.product import Product
 from helpers.background_utils import set_background
 from helpers.font_utils import load_custom_font
 from helpers.logger import log_info, log_debug
+from helpers.utils import resource_path
 
 logger = logging.getLogger(__name__)
 
