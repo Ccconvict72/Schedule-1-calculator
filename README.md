@@ -26,7 +26,8 @@ Schedule 1 Calculator is a standalone PyQt6 application that helps “Schedule 1
    4.6. [About & Updates](#about--updates)  
 5. [Development](#development)  
 6. [Packaging into an .exe](#packaging-into-an-exe)  
-7. [License](#license)  
+7. [Attributions](#attributions)
+8. [License](#license)  
 
 ---
 
@@ -76,9 +77,8 @@ Schedule 1 Calculator is a standalone PyQt6 application that helps “Schedule 1
 ![image](https://github.com/user-attachments/assets/5a8d7fbb-315b-4212-86ab-da141d81ca0e)
 ![image](https://github.com/user-attachments/assets/ea34d4fd-eb59-4039-bbb5-84607d9b5dab)
 
-
-
 ---
+
 ## 🔧 Installation
 
 1. **Download the latest release**  
@@ -99,3 +99,16 @@ Schedule 1 Calculator is a standalone PyQt6 application that helps “Schedule 1
 - Make sure you **unzip** the file; running it from inside the `.zip` may cause issues with reading data files or saving settings.
 - If Windows blocks it as "untrusted," right-click → **Properties** → **Unblock**, or click **More Info** → **Run Anyway** in SmartScreen.
 
+---
+
+## 📚 Attributions
+
+- **Icons**: Sourced from [Icons8](https://icons8.com/), used under their free license.
+- **Images**: All images were created by me.
+- **Font**: Downloaded from [FontLibrary](https://fontlibrary.org/), licensed under its own free license.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
