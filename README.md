@@ -103,7 +103,7 @@ Schedule 1 Calculator is a standalone PyQt6 application that helps “Schedule 1
 
 ## 📚 Attributions
 
-- **Icons**: Sourced from [Icons8](https://icons8.com/), used under their free license.
+- **Icons**: Application icons sourced from [Icons8](https://icons8.com/) under their free license. Game icons sourced from the *Schedule 1 Wiki* for use alongside the game.
 - **Images**: All images were created by me.
 - **Font**: Downloaded from [FontLibrary](https://fontlibrary.org/), licensed under its own free license.
 
