@@ -79,10 +79,23 @@ Schedule 1 Calculator is a standalone PyQt6 application that helps “Schedule 1
 
 
 ---
+## 🔧 Installation
 
-## Installation
+1. **Download the latest release**  
+   - Go to the [Releases page](https://github.com/Ccconvict72/Schedule-1-calculator/releases) of this repository.  
+   - Download the `.zip` file (e.g. `Schedule-1-Calculator-v1.0.0.zip`).
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Ccconvict72/Schedule-1-calculator.git
-   cd Schedule-1-calculator
+2. **Unzip it anywhere you like**  
+   - Right-click the `.zip` file → **Extract All** → pick a folder (e.g. `C:\Program Files\Schedule 1 Calculator` or your desktop).
+
+3. **Run the application**  
+   - Inside the unzipped folder, double-click `Schedule 1 Calculator.exe`.  
+   - That’s it. No installation, no dependencies.
+
+---
+
+## 🛑 Important Notes
+
+- Make sure you **unzip** the file; running it from inside the `.zip` may cause issues with reading data files or saving settings.
+- If Windows blocks it as "untrusted," right-click → **Properties** → **Unblock**, or click **More Info** → **Run Anyway** in SmartScreen.
+
