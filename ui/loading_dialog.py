@@ -1,6 +1,7 @@
 from PyQt6.QtWidgets import QDialog, QVBoxLayout, QLabel, QPushButton
 from PyQt6.QtCore import pyqtSignal, Qt
 from PyQt6.QtGui import QMovie
+from helpers.utils import resource_path
 
 class LoadingDialog(QDialog):
     cancel_requested = pyqtSignal()

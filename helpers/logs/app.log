@@ -2145,3 +2145,56 @@ NameError: name 'base_name' is not defined
 [2025-06-06 22:01:38,348] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
 [2025-06-06 22:01:38,348] INFO: [MainWindow] MainWindow UI initialized
 [2025-06-06 22:01:38,409] INFO: [Startup] Application started
+[2025-06-11 14:07:59,850] DEBUG: [ColorManager] Loaded product colors: {'OGKush': '#77ED77', 'Sour Diesel': '#3BE53B', 'Green Crack': '#1AC01A', 'Granddaddy Purple': '#9836CE', 'Meth': '#373CFF', 'Cocaine': '#C80000'}
+[2025-06-11 14:07:59,850] DEBUG: [ColorManager] Loaded effect colors: {'Anti-Gravity': '#1cb5cb', 'Athletic': '#67a9d4', 'Balding': '#b88835', 'Bright-Eyed': '#b2e6ed', 'Calming': '#edc392', 'Calorie-Dense': '#dc75d5', 'Cyclopean': '#eab26f', 'Disorienting': '#ffc000', 'Electrifying': '#4fa9d6', 'Energizing': '#82ee97', 'Euphoric': '#ffff66', 'Explosive': '#de473f', 'Focused': '#00b0f0', 'Foggy': '#949494', 'Gingeritis': '#ee812e', 'Glowing': '#92ded5', 'Jennerising': '#d67ad2', 'Laxative': '#713d2a', 'Long-Faced': '#fed961', 'Munchies': '#c96e57', 'Paranoia': '#b8625d', 'Refreshing': '#a6ec8f', 'Schizophrenic': '#4145f1', 'Sedating': '#645ac4', 'Seizure-Inducing': '#fee900', 'Shrinking': '#95dcf7', 'Slippery': '#98d0ee', 'Smelly': '#77b034', 'Sneaky': '#747474', 'Spicy': '#e1624a', 'Thought-Provoking': '#d589ab', 'Toxic': '#578437', 'Tropic Thunder': '#ea9346', 'Zombifying': '#71ab5d'}
+[2025-06-11 14:07:59,850] INFO: [Initialization] Core managers initialized
+[2025-06-11 14:07:59,851] INFO: [Initialization] SettingsManager initialized
+[2025-06-11 14:07:59,857] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-11 14:07:59,857] DEBUG: [MainWindow] Loaded custom font: Berenika
+[2025-06-11 14:07:59,865] INFO: [UI] Created button: 'Mix (Effect Finder)' with size (NonexNone)
+[2025-06-11 14:07:59,865] INFO: [UI] Created button: 'Unmix (Ingredient Finder)' with size (NonexNone)
+[2025-06-11 14:07:59,892] INFO: [MainWindow] Applied background: assets/images/background1.png
+[2025-06-11 14:07:59,900] INFO: [RankFilter] Rank filtering enabled. Awaiting rank selection.
+[2025-06-11 14:07:59,901] INFO: [MainWindow] MainWindow UI initialized
+[2025-06-11 14:07:59,956] INFO: [Startup] Application started
+[2025-06-11 14:08:01,950] DEBUG: [RankSelection] Accessible products for Streetrat I: {'OGKush'}
+[2025-06-11 14:08:01,950] INFO: [MainWindow] Rank selected: Streetrat I
+[2025-06-11 14:08:02,003] DEBUG: [RankSelection] Accessible products for Streetrat II: {'OGKush'}
+[2025-06-11 14:08:02,003] INFO: [MainWindow] Rank selected: Streetrat II
+[2025-06-11 14:08:02,075] DEBUG: [RankSelection] Accessible products for Streetrat III: {'OGKush'}
+[2025-06-11 14:08:02,075] INFO: [MainWindow] Rank selected: Streetrat III
+[2025-06-11 14:08:02,968] INFO: [MainWindow] Unmix clicked with rank: Streetrat III
+[2025-06-11 14:08:02,968] INFO: [ReverseWindow] ReverseWindow initialized
+[2025-06-11 14:08:02,970] DEBUG: [ReverseWindow] Loaded nested effect rules and additives
+[2025-06-11 14:08:02,970] DEBUG: [ReverseWindow] PricingManager instantiated in ReverseWindow
+[2025-06-11 14:08:02,970] DEBUG: [ReverseLogic] ReverseLogic initialized with 1 products and 16 nested effect rules.
+[2025-06-11 14:08:02,970] DEBUG: [ReverseWindow] ReverseLogic instantiated in ReverseWindow
+[2025-06-11 14:08:02,970] DEBUG: [ReverseUI] [ReverseUI] __init__ start
+[2025-06-11 14:08:02,970] INFO: [FontUtils] Loaded custom font 'Berenika' from 'C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\fonts\Berenika.ttf'.
+[2025-06-11 14:08:02,970] DEBUG: [ReverseUI] ReverseUI: Applied font 'Berenika'
+[2025-06-11 14:08:02,970] DEBUG: [ReverseUI] ReverseUI: Applied font color '#FF0000'
+[2025-06-11 14:08:02,971] INFO: [ReverseUI] ReverseUI: Applied background 'assets/images/background1.png'
+[2025-06-11 14:08:02,975] DEBUG: [ReverseUI] ReverseUI: Created 34 effect checkboxes (max 8)
+[2025-06-11 14:08:02,977] DEBUG: [ReverseUI] [ReverseUI] _build_ui end
+[2025-06-11 14:08:02,977] DEBUG: [ReverseUI] [ReverseUI] __init__ end
+[2025-06-11 14:08:02,978] INFO: [ReverseWindow] ReverseUI set as central widget
+[2025-06-11 14:08:02,999] INFO: [WindowNavigation] Opened window: ReverseWindow
+[2025-06-11 14:08:04,573] DEBUG: [ReverseUI] ReverseUI: Selected product set to: OGKush
+[2025-06-11 14:08:06,731] DEBUG: [ReverseUI] [ReverseUI] safe_handle_unmix called
+[2025-06-11 14:08:06,743] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-11 14:08:06,746] DEBUG: [UnmixWorker] [UnmixWorker] Starting unmix for product=OGKush, effects=['Anti-Gravity']
+[2025-06-11 14:08:06,746] DEBUG: [ReverseLogic] ReverseLogic: Cancel flag reset to False
+[2025-06-11 14:08:06,746] DEBUG: [ReverseLogic] ReverseLogic: Starting unmix for product='OGKush' with desired_effects=['Anti-Gravity']
+[2025-06-11 14:08:06,746] DEBUG: [ReverseLogic] ReverseLogic: Extracted base effects: {'Calming'}
+[2025-06-11 14:08:06,767] DEBUG: [ReverseLogic] ReverseLogic: Path found: [('Paracetamol', {'Slippery', 'Sneaky'}), ('Cuke', {'Energizing', 'Munchies', 'Paranoia'}), ('Paracetamol', {'Anti-Gravity', 'Balding', 'Sneaky', 'Paranoia'})]
+[2025-06-11 14:08:06,768] DEBUG: [ReverseLogic] ReverseLogic: Price calculation completed: {'cost': {'base_product': 16, 'additives': 22, 'total': 38}, 'final_price': 73}
+[2025-06-11 14:08:06,768] DEBUG: [UnmixWorker] [UnmixWorker] Finished unmix, emitting result
+[2025-06-11 14:08:06,768] DEBUG: [ReverseUI] [ReverseUI] Stopping loading dialog after result
+[2025-06-11 14:08:06,773] INFO: [UI] Building mixing path widget for: ['OGKush', 'Paracetamol', 'Cuke', 'Paracetamol']
+[2025-06-11 14:08:06,773] DEBUG: [Icons] Resolved icon path for 'OGKush': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\OGKush_Icon.webp
+[2025-06-11 14:08:06,775] DEBUG: [Icons] Resolved icon path for 'Paracetamol': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Paracetamol_Icon.webp
+[2025-06-11 14:08:06,781] DEBUG: [Icons] Resolved icon path for 'Cuke': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Cuke_Icon.webp
+[2025-06-11 14:08:06,782] DEBUG: [Icons] Resolved icon path for 'Paracetamol': C:\Users\Chris\OneDrive\Documents\Schedule 1 Calculator\assets\icons\Paracetamol_Icon.webp
+[2025-06-11 14:08:06,967] INFO: [ReverseUI] ReverseUI: Displayed unmix results
+[2025-06-11 14:08:10,034] INFO: [ReverseUI] ReverseUI: Returning to main window
+[2025-06-11 14:08:10,060] DEBUG: [WindowNavigation] ReverseWindow closed, main window shown
